@@ -12,7 +12,9 @@ description: Between tech startups, non-profits and scifi.
 avatar: https://avatars1.githubusercontent.com/u/2878228?v=3&s=466
 
 # Flags below are optional
-#
+
+# Adding swiss theme
+theme: jekyll-swiss
 
 # Pagination values
 paginate: 5

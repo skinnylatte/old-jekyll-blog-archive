@@ -5,3 +5,4 @@ group :jekyll_plugins do
    gem 'jekyll-archives', github: 'jekyll/jekyll-archives'
 end
 
+gem "jekyll-swiss"

@@ -32,6 +32,7 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
+    jekyll-swiss (0.4.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.12.0)
@@ -55,6 +56,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll-archives!
   jekyll-feed!
+  jekyll-swiss
 
 BUNDLED WITH
    1.13.5
