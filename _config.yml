@@ -13,10 +13,6 @@ avatar: https://avatars1.githubusercontent.com/u/2878228?v=3&s=466
 
 # Flags below are optional
 
-# Adding swiss theme
-theme: jekyll-swiss
-theme-color: black
-
 # Pagination values
 paginate: 5
 paginate_path: "/blog/page:num/"
