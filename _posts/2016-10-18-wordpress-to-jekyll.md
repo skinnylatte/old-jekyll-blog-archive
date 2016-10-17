@@ -1,6 +1,6 @@
 ---
 id: 1400
-title: What 31 Feels Like
+title: Wordpress to Jekyll
 date: 2016-10-18T18:15:53+00:00
 author: Adrianna Tan
 layout: post
