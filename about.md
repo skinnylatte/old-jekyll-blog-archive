@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, I'm Adrianna.
 
-### More Information
+I'm a startup founder from Singapore who has spent considerable amounts of time working and living across India, Indonesia, Malaysia, Myanmar and Bangladesh, with short stints in America, the UK and Hungary.
 
-A place to include any other types of information that you'd like to include about yourself.
+I started this site in 2002 to document some of the things that occupied me at the time — school, technology, dating, photography, travel. My interests, but for two, remain the same.
+
+Here I'll start to write more about business, family, scifi and video games. I already have a Battlestar Galactica tattoo across my forearm, so it's clear which path that's going to lead us to.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+The best way to contact me is to [tweet at me](http://twitter.com/@skinnylatte), or to drop me a line at skinnylatte [at] gmail.com.
