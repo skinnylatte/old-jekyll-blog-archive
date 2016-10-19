@@ -10,8 +10,7 @@ I'm a startup founder from Singapore who has spent considerable amounts of time 
 
 I started this site in 2002 to document some of the things that occupied me at the time — school, technology, dating, photography, travel. My interests, but for two, remain the same.
 
-Here I'll start to write more about business, family, scifi and video games. I already have a Battlestar Galactica tattoo across my forearm, so it's clear which path that's going to lead us to.
-
+Here I'll start to write more about business, family, scifi and video games. I already have a Battlestar Galactica tattoo across my forearm, so it's clear which path that's going to lead us.
 
 ### Contact me
 
