@@ -4,7 +4,7 @@ title: Love, Singapore
 date: 2013-08-21T15:41:25+00:00
 author: Adrianna Tan
 excerpt: "I wrote a small piece for Elle Singapore (Sept 2013) about what it's like to be lesbian in Singapore."
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=859
 permalink: /2013/08/love-singapore/
 dsq_thread_id:
@@ -21,7 +21,7 @@ Mention to someone in passing that you&#8217;re lesbian and one or all of the fo
 
 I always want to say — the same way you meet your boy- and girlfriends, husbands and wives. &#8220;We&#8221; meet in school, at work, at business events, we sometimes also experiment with online dating (like everyone else), or meet through friends and relations. We meet when we play sports. We meet at religious institutions, support groups, at school camps, we meet at dinner parties or we are introduced by well-meaning friends. Other times, coincidence intervenes: you see each other for the first time, somewhere, and you just know.
 
-All of the above answers are true, and this causes great frustration to those who were hoping to hear about lesbian dating rituals from an alternate universe, far removed from their own. They also can&#8217;t seem to fathom that you can, quite simply, &#8220;just know&#8221; (or make a very educated guess). The only secret here is there are many of us. 
+All of the above answers are true, and this causes great frustration to those who were hoping to hear about lesbian dating rituals from an alternate universe, far removed from their own. They also can&#8217;t seem to fathom that you can, quite simply, &#8220;just know&#8221; (or make a very educated guess). The only secret here is there are many of us.
 
 For gay women, the stereotype of promiscuity and endless partying is as far from lesbian dating realities as it gets.
 

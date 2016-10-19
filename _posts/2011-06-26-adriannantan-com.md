@@ -3,7 +3,7 @@ id: 210
 title: adriannantan.com
 date: 2011-06-26T03:33:04+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=210
 permalink: /2011/06/adriannantan-com/
 dsq_thread_id:

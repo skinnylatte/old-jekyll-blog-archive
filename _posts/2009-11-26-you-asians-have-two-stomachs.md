@@ -3,7 +3,7 @@ id: 43
 title: You Asians Have Two Stomachs
 date: 2009-11-26T12:20:06+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=43
 permalink: /2009/11/you-asians-have-two-stomachs/
 dsq_thread_id:

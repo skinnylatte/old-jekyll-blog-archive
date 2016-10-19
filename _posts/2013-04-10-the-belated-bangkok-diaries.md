@@ -4,7 +4,7 @@ title: The Belated Bangkok Diaries
 date: 2013-04-10T23:31:23+00:00
 author: Adrianna Tan
 excerpt: Bangkok is one of my favourite cities in the world. It will always be.
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=668
 permalink: /2013/04/the-belated-bangkok-diaries/
 dsq_thread_id:
@@ -24,11 +24,11 @@ Admittedly I have posted very little on the everyday occurrences in my travel. H
       <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
       </div>
     </div>
-    
+
     <p style=" margin:8px 0 0 0; padding:0 4px;">
       <a href="https://www.instagram.com/p/SAJTu5mnXm/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">I love street food. I love pork.</a>
     </p>
-    
+
     <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
       A photo posted by Adrianna Tan (@skinnylatte) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2012-11-14T07:53:27+00:00">Nov 13, 2012 at 11:53pm PST</time>
     </p>
@@ -37,7 +37,7 @@ Admittedly I have posted very little on the everyday occurrences in my travel. H
 
 
 
-**_Day 1:_** Two sleep-deprived people board a plane full of evangelical missionaries offering &#8216;free healing&#8217; in the plane (true story), dinner in the streets and accidental romantic date at a blacksmith-themed cocktail bar with a toilet that was so awesomely creepy it freaked out the one half of us that actually writes horror fiction as a profession. Shai halip in Little Arabia, 24-hour tacos and the latest episode of Scandal. 
+**_Day 1:_** Two sleep-deprived people board a plane full of evangelical missionaries offering &#8216;free healing&#8217; in the plane (true story), dinner in the streets and accidental romantic date at a blacksmith-themed cocktail bar with a toilet that was so awesomely creepy it freaked out the one half of us that actually writes horror fiction as a profession. Shai halip in Little Arabia, 24-hour tacos and the latest episode of Scandal.
 
 Street vendors selling holographic pictures of puppies, kittens, Jesus and Mary, naked women and ferocious tigers, across from a fake Viagra/Cialis/ made-in-China sex toy shops.
 
@@ -45,7 +45,7 @@ Bangkok is my happy place. Tomorrow: at least two massages.
 
 **_Day 2:_** In no particular order: grilled chicken hearts, the breakfast of champions; flashing at passengers on the Khlong San Saeb river taxi each time (not me, btw), having random thai men cat-calling us coz Sam is in a very sessy dress (they called us &#8216;black and white girls&#8217;. Um. Brown and yellow is more accurate); beef boat noodle carnage, talking security guards into letting us trespass private property so we can take a shortcut, Gibson-esque massive overhead bridges, stalker pandas and mushrooms, great crackling massages, pork cracklings;
 
-Pork satay, dogs and teddy bears and dogs in frilly clothes; hanging out with exes, discussing whether one&#8217;s Portuguese ancestry is to blame for epic marine vessel conquering flag-planting fantasies (no: it&#8217;s just Sam); ominous Elliott Smith songs in hotel toilets, streetside mobile bars. Pork tacos in the fridge. 
+Pork satay, dogs and teddy bears and dogs in frilly clothes; hanging out with exes, discussing whether one&#8217;s Portuguese ancestry is to blame for epic marine vessel conquering flag-planting fantasies (no: it&#8217;s just Sam); ominous Elliott Smith songs in hotel toilets, streetside mobile bars. Pork tacos in the fridge.
 
 A swim is on the menu tomorrow. Pandas are everywhere.
 
@@ -61,11 +61,11 @@ Apparently I accidentally cock-blocked an Italian dude at a bar in Bangkok. All 
 
 The Italian dude left, very sadly.
 
-Must. Stop. Accidentally. Fang dian-ing<superscript>*</superscript> at people. Even sideways in my peripheral vision while eating potato chips and drinking whisky. 
+Must. Stop. Accidentally. Fang dian-ing<superscript>*</superscript> at people. Even sideways in my peripheral vision while eating potato chips and drinking whisky.
 
 _Note: &#8216;fang dian&#8217; = a Mandarin term made up by some friends, meaning &#8216;to put electricity&#8217;. It refers to my track record of accidentally attracting unwanted attention through what they suspect is the sheer Cyclops-like, err, traits in my… eyes._
 
-**_Day 4_**: _jok moo_! Pork porridge with salted egg, century egg, innards! Flip-flops and Hello Kitty (don&#8217;t ask) and cable shopping! Skyfall! Prawn bisque! Accidentally fang-dian-ing: me at people, Sam at buildings! Giant sea creatures! Girlie bars! Mobile bars! No crickets! 
+**_Day 4_**: _jok moo_! Pork porridge with salted egg, century egg, innards! Flip-flops and Hello Kitty (don&#8217;t ask) and cable shopping! Skyfall! Prawn bisque! Accidentally fang-dian-ing: me at people, Sam at buildings! Giant sea creatures! Girlie bars! Mobile bars! No crickets!
 
 **New Bangkok Notes**
 

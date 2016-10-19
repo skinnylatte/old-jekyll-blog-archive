@@ -3,7 +3,7 @@ id: 541
 title: 'The Places We&#8217;ll Go'
 date: 2012-06-22T01:39:36+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=541
 permalink: /2012/06/the-places-well-go/
 dsq_thread_id:
@@ -15,12 +15,12 @@ categories:
   - Travel
 ---
 [<img src="http://farm1.staticflickr.com/96/230303799_1efbfe6e73.jpg" width="500" height="375" alt="King of the Limestone Hill" />](http://www.flickr.com/photos/skinnylatte/230303799/ "King of the Limestone Hill by skinnylatte, on Flickr")
-  
+
 _Cow on Limestone Kiln, Meghalaya, 2006_
 
 Five years ago, [I said](http://popagandhi.com/2007/02/chasing-the-monsoon/): &#8220;Ask me again a year, three, or five from now and all I will remember is driving up, around, up, around, up, around, in the swirling clouds as the rain lashed at my windows and I feared for my life, balanced so daintily in this tin can navigating itself on the hairpin road.&#8221;
 
-Plenty has changed, these five years, but at least this part remains familiar: &#8220;Ask me again a year, three, or five from now and I will still tell you the same thing: I’m not sure why I do the things that I do.&#8221; Then, I was referring to the heady, exciting days of a student who had the chance to criss-cross across the hill tribes of northeast India and investigate the ailments of rural Bangladeshis suffering from leprosy, TB and lymphatic filiarisis. I got to go on the amazing adventure of my life, never really expecting it to end. It hasn&#8217;t. 
+Plenty has changed, these five years, but at least this part remains familiar: &#8220;Ask me again a year, three, or five from now and I will still tell you the same thing: I’m not sure why I do the things that I do.&#8221; Then, I was referring to the heady, exciting days of a student who had the chance to criss-cross across the hill tribes of northeast India and investigate the ailments of rural Bangladeshis suffering from leprosy, TB and lymphatic filiarisis. I got to go on the amazing adventure of my life, never really expecting it to end. It hasn&#8217;t.
 
 Much has changed, but adventure has never left me.
 

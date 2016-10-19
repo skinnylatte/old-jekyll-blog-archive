@@ -3,7 +3,7 @@ id: 369
 title: Incandescent
 date: 2005-12-10T06:14:56+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=369
 permalink: /2005/12/incandescent/
 dsq_thread_id:

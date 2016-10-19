@@ -3,7 +3,7 @@ id: 318
 title: I Hate Cabbage Soup
 date: 2012-01-20T20:49:32+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=318
 permalink: /2012/01/i-hate-cabbage-soup/
 dsq_thread_id:
@@ -23,7 +23,7 @@ I didn’t use to hate it so much. Now, in the run-up to reunion dinner (I have 
 
 Now, at age 26 and counting, I am still trying to find out what we are celebrating.
 
-Some of you will say, oh, silly person, it’s about spending time with your family of course. Sure. When I was living in the Middle East, I looked forward to coming home because I missed my family so much. I love my tiny immediate family. I see them every weekend. It’s the extended web of relations, the sort you see only at weddings and funerals, who I don’t understand. Why do these strangers give me oranges once a year? Oranges are not the only fruit. 
+Some of you will say, oh, silly person, it’s about spending time with your family of course. Sure. When I was living in the Middle East, I looked forward to coming home because I missed my family so much. I love my tiny immediate family. I see them every weekend. It’s the extended web of relations, the sort you see only at weddings and funerals, who I don’t understand. Why do these strangers give me oranges once a year? Oranges are not the only fruit.
 
 Other than family, if there is a meaning at all to this celebration, I am not able to divine it. If anything, it reminds me excessively of a culture whose values I do not understand.
 
@@ -39,7 +39,7 @@ Then there’s the music. And the movies. The Hong Kong or Taiwan or Mainland Ch
 
 No matter how much I hated it, Chinese New Year always had a silver lining. If there was one thing I loved about it, it was to see my grandfather excited, filled with a sense of purpose — he did not cook at all, but he took pride in making his awesome secret chilli, and he also loved to prepare reunion dinner. Ah gong and ah ma worked together as a duo at their finest, waking up at five in the morning so that they can get the best braised duck and whole chicken, roast meat and fish for the family. Next to going for walks in the park together, reunion dinner preparations were when they were the closest.
 
-This will be the third Chinese New Year without him around. Every Chinese New Year without him, without his stupid jokes, without him stringing the grandkids along on some ridiculous, elaborate joke, feels like a joke itself. I keep wishing this was one of those times when he stood outside the house, rang the bell ten times then ran away to hide. I keep wishing this was one of those times when he told me he had gone away on a holiday but hadn’t. I bought it a few times when I was a little girl, not knowing he didn’t believe in vacations. It’s been more than 3 years but the banter-less silence from my grandparents’ room still freaks me out. I still miss him everyday. My tears still well up uncontrollably when I think of him. When I see his photo. When I see a video and see him there and hear his voice but cannot reach out across the binaries to hold his hand. 
+This will be the third Chinese New Year without him around. Every Chinese New Year without him, without his stupid jokes, without him stringing the grandkids along on some ridiculous, elaborate joke, feels like a joke itself. I keep wishing this was one of those times when he stood outside the house, rang the bell ten times then ran away to hide. I keep wishing this was one of those times when he told me he had gone away on a holiday but hadn’t. I bought it a few times when I was a little girl, not knowing he didn’t believe in vacations. It’s been more than 3 years but the banter-less silence from my grandparents’ room still freaks me out. I still miss him everyday. My tears still well up uncontrollably when I think of him. When I see his photo. When I see a video and see him there and hear his voice but cannot reach out across the binaries to hold his hand.
 
 Tomorrow, when I sit down for reunion dinner I will still panic when I don’t see him at his usual spot. I know I will wake up on the first day of Chinese New Year and expect to see him in his best set of singlets, shorts and sandals, and be sorely disappointed when I don’t.
 

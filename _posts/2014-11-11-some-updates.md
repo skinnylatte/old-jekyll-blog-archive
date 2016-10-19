@@ -3,7 +3,7 @@ id: 1175
 title: Some Updates
 date: 2014-11-11T15:52:10+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=1175
 permalink: /2014/11/some-updates/
 dsq_thread_id:

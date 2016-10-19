@@ -3,7 +3,7 @@ id: 600
 title: 'This Morning&#8217;s Downtown Line Tragedy'
 date: 2012-07-19T03:22:03+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=600
 permalink: /2012/07/this-mornings-downtown-line-tragedy/
 dsq_thread_id:
@@ -21,7 +21,7 @@ categories:
 
 It is with a heavy heart that I write this post. This morning, we awoke to tragic news that two workers had died while building the Downtown Line in Bugis. They were buried alive by cement while pouring wet concrete into a mould. The scaffolding collapsed. They were stuck in the cement and the rescuers had some difficulty prying their bodies out. Investigations are now saying that the wet concrete was almost as heavy as a swimming pool. ([link](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1214308/1/.html)) Whatever the outcome, and whatever its impact on our labour practices will be, there is simply no other way to put this: these guys came here to build our nation, often at great risk to their lives.
 
-Singapore is what it is today because of the migrant workers that have built our structures, poured our wet cement while we were sleeping, dug and laid our roads. It was true when it was [Samsui women](http://en.wikipedia.org/wiki/Samsui_women) doing that, and it is even more true now that we have migrant workers from China, Mongolia, India, Bangladesh and other countries coming here in droves in search of a better life, offering their services to us at minimal cost and maximum risk. 
+Singapore is what it is today because of the migrant workers that have built our structures, poured our wet cement while we were sleeping, dug and laid our roads. It was true when it was [Samsui women](http://en.wikipedia.org/wiki/Samsui_women) doing that, and it is even more true now that we have migrant workers from China, Mongolia, India, Bangladesh and other countries coming here in droves in search of a better life, offering their services to us at minimal cost and maximum risk.
 
 As [Miyagi said](http://miyagi.sg/2012/07/help-the-workers-who-help-build-our-country/), these guys are doing our national service.
 

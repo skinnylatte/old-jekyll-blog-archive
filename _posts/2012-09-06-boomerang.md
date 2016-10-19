@@ -3,7 +3,7 @@ id: 633
 title: Boomerang
 date: 2012-09-06T06:19:02+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=633
 permalink: /2012/09/boomerang/
 dsq_thread_id:
@@ -16,11 +16,11 @@ categories:
 ---
 National Day came and went. I haven&#8217;t written any of those essays [I promised to](http://popagandhi.com/2012/08/the-nation-essays/). _Sheepish._ I _will_ write them, I just need a little bit more time.
 
-I did, however, contribute a piece to the Straits Times after PM Lee&#8217;s National Day Rally speech, which I streamed from a house by the lake in… Hungary. I know, I&#8217;m still waiting for my life this year to get less random. I don&#8217;t think that&#8217;s going to happen. 
+I did, however, contribute a piece to the Straits Times after PM Lee&#8217;s National Day Rally speech, which I streamed from a house by the lake in… Hungary. I know, I&#8217;m still waiting for my life this year to get less random. I don&#8217;t think that&#8217;s going to happen.
 
-If you&#8217;re interested, you can read it here: [link](http://popagandhi.com/wp-content/uploads/2012/09/st_ndr1.jpeg) (opens a jpg image). 
+If you&#8217;re interested, you can read it here: [link](http://popagandhi.com/wp-content/uploads/2012/09/st_ndr1.jpeg) (opens a jpg image).
 
-Speaking of random, and Hungary, I am currently hiding out in this secret location — 
+Speaking of random, and Hungary, I am currently hiding out in this secret location —
 
 <img style="display:block; margin-left:auto; margin-right:auto;" src="http://popagandhi.com/wp-content/uploads/2012/09/zamardi.jpeg" alt="Zamardi" title="zamardi.jpeg" border="0" width="600" height="450" />
 
@@ -30,23 +30,23 @@ Huddling in a house with a team of talented designers and developers, and we are
 
 When I&#8217;m done here, I move on to Finland. Yep, Finland yet again, even if it was only six months ago that I was there. I&#8217;m in love with that country, its people, and I&#8217;ve made so many wonderful friends that I just had to go again just because I was going to be on the same continent! [Finnair](http://finnair.com), my new favourite airline, takes me there for an affordable price.
 
-When I&#8217;m finished with Finland (if I ever do), I&#8217;ll move on to San Francisco, where I&#8217;ll get to see new friends and old, visit companies I deeply admire, and learn as much as I can from the best brains in my industry. Then I&#8217;ll head to Washington DC to see a very dear friend who currently works at the embassy there. Then it&#8217;ll be my birthday, and it&#8217;ll happen in New York City. This sounds cheesy but I feel like I have been waiting my whole life to finally make it there (just like the song), and I have an incredible schedule lined up already, mostly comprising of meeting [people who have inspired me](http://zeldman.com), having a superb 27th birthday party surrounded by some dear friends, [going to classes](http://generalassemb.ly/), and doing new things. 
+When I&#8217;m finished with Finland (if I ever do), I&#8217;ll move on to San Francisco, where I&#8217;ll get to see new friends and old, visit companies I deeply admire, and learn as much as I can from the best brains in my industry. Then I&#8217;ll head to Washington DC to see a very dear friend who currently works at the embassy there. Then it&#8217;ll be my birthday, and it&#8217;ll happen in New York City. This sounds cheesy but I feel like I have been waiting my whole life to finally make it there (just like the song), and I have an incredible schedule lined up already, mostly comprising of meeting [people who have inspired me](http://zeldman.com), having a superb 27th birthday party surrounded by some dear friends, [going to classes](http://generalassemb.ly/), and doing new things.
 
 If it isn&#8217;t already obvious, I am on a mission. I have to sort out myself, reconfigure my life and priorities, and two weeks into my travels and challenges I am already halfway there: I&#8217;m closing off bits of a past best left behind, bravely — some say foolhardily — navigating new, unseen waters. I&#8217;m in a different headspace from the one I was in six months, a year ago.
 
-Even though it looks like, and God knows it felt like, I was wading in a cloud of randomness for the past six months, my method to this madness has been simple: figure shit out, get stuff done. Fix what wasn&#8217;t working, improve my skills. 
+Even though it looks like, and God knows it felt like, I was wading in a cloud of randomness for the past six months, my method to this madness has been simple: figure shit out, get stuff done. Fix what wasn&#8217;t working, improve my skills.
 
 What I did (God help me if I sound like a pop self-help type now) was easy enough for anybody to do. The main tenets: Ask. Do. Give.
 
 It amazes me how far one can get just by asking. It opens doors you previously didn&#8217;t know existed. When I made some of the very big decisions I had to make, on business, love and others, I was temporarily frozen by the fear — _what happens next?_ I didn&#8217;t know. The fear was crippling. But eventually I came to see that if I didn&#8217;t let fear cripple me in so many other aspects of my life, I certainly wasn&#8217;t going to let it win in the most important areas, the ones that affected me directly. I made decisions, some of which I&#8217;m not particularly proud or happy to have made, but that were necessary — to me — with less collateral damage now than if I make them years from now. I didn&#8217;t know what was going to happen, in terms of work, money, life. But I&#8217;ve come to think that maybe I really am one of the luckiest people ever — everything fell into place, and got going, pretty much with a life of its own in which I was a mere spectator who occasionally hit a &#8216;yes&#8217; or &#8216;no&#8217; or &#8216;let&#8217;s move on&#8217; button. None of that would have happened if I hadn&#8217;t developed the shameless ability to ask. The right people at the right places. What&#8217;s the worst that could happen? A no? So I did, and I&#8217;m all the better for it.
 
-I actively identified a few key areas in my life that needed to be fixed, and tried to find inspiration on how to go about fixing them. 
+I actively identified a few key areas in my life that needed to be fixed, and tried to find inspiration on how to go about fixing them.
 
-I knew that I had boundless energy when it came to starting things up, but not when it came to completing things — to running the race through to the end. The tedium and minutiae of everyday life bored the hell out of me. So I learned to delegate, and I learned to separate the important from the less so. 
+I knew that I had boundless energy when it came to starting things up, but not when it came to completing things — to running the race through to the end. The tedium and minutiae of everyday life bored the hell out of me. So I learned to delegate, and I learned to separate the important from the less so.
 
 I knew that I had no trouble making a lot of money, but plenty of trouble understanding the flow of money, so I went to a handful of trusted older acquaintances and friends and basically said to them: here I am, this is where I am at, this is the situation, this is where I want to be in 5 years, 10 years — in your shoes. Teach me what to do with money in beneficial ways, and not only to myself. One day I&#8217;ll write a ridiculous self-help finance book on this process.
 
-I knew that I had no shortage of ideas, all of which excited me and made me jump out of bed — but I needed to make them show for something. That tied in with how I previously and historically always ran out of steam and had no ability to see things through to their full potential. I threw a couple of things at it to try to fix it — mostly through consistency and coffee-fuelled attempts at hard work — but seen through the perspective of what I need to achieve within the next year, there are always creative ways to fix any problems, and in the next few months I will be able to hold actual things in my hands and say: I made this, and I finished it. 
+I knew that I had no shortage of ideas, all of which excited me and made me jump out of bed — but I needed to make them show for something. That tied in with how I previously and historically always ran out of steam and had no ability to see things through to their full potential. I threw a couple of things at it to try to fix it — mostly through consistency and coffee-fuelled attempts at hard work — but seen through the perspective of what I need to achieve within the next year, there are always creative ways to fix any problems, and in the next few months I will be able to hold actual things in my hands and say: I made this, and I finished it.
 
 Doing stuff has never been difficult for me. I&#8217;m the crazy friend who gets sent these emails saying &#8220;I have this great idea. What should I do?&#8221; And my only answer is: _do it_. Or if I can afford to, _let me help you._ This quarter, whatever stars are aligned (if you believe in that hufflepuff), they&#8217;re certainly all pointing at how I&#8217;m learning to pick my battles and to keep doing stuff, but only the stuff that really matters in the end. Steve Jobs&#8217; famous line to Sculley rings true in my mind at every milestone: _do I want to sell sugared water?_ Or do the important stuff? In some truly funny ways I think I&#8217;d let my grip on reality cripple my ability to see the big picture. Being bogged down by the small stuff, the details — I stopped being able to dream. Of course the dreamer in me now at 27 versus the one at 17 is a very different one: _I already know the small stuff and I won&#8217;t sweat it._ But I don&#8217;t ignore them or wish them away. So now, I do, with the tempered mania of a recovering hyperthyroid patient on metaphoric and literal energy drinks (but properly medicated, don&#8217;t worry, mum) — banging away at my keyboard, and the world, and all these things I am going to do in it.
 
@@ -58,12 +58,12 @@ In addition to [Culture Kitchen](http://thisis.sg/culturekitchen/) I will also h
 
 So. Giving back. There are tons of other initiatives that we&#8217;ve dreamed up, and that we&#8217;re laying the groundwork on, but for now there&#8217;s all of this. And then some. I wish I started an active giving process much earlier, but here we are.
 
-In between all these projects, shuttling back and forth between various countries, and other things, I haven&#8217;t had very much time to sort out the homefront. My dog is now in Singapore, and will be out of quarantine soon. When she does get out and come home to live with me in my family home, I think it will be my first real shot at _real life_ this year. 
+In between all these projects, shuttling back and forth between various countries, and other things, I haven&#8217;t had very much time to sort out the homefront. My dog is now in Singapore, and will be out of quarantine soon. When she does get out and come home to live with me in my family home, I think it will be my first real shot at _real life_ this year.
 
 It&#8217;s been a crazy year but at least you can&#8217;t call it uninteresting in the slightest way.
 
-Just yesterday I [tweeted as a monster](http://twitter.com/photogotchi), designed a game, went to [float on a crocodile boat](http://instagram.com/p/PK-jsCmnXa/) in lake Balaton, and came back to the house to help set up an NGO. 
+Just yesterday I [tweeted as a monster](http://twitter.com/photogotchi), designed a game, went to [float on a crocodile boat](http://instagram.com/p/PK-jsCmnXa/) in lake Balaton, and came back to the house to help set up an NGO.
 
-Perhaps the biggest discovery this year may be that I possibly and probably have an attention deficit disorder too? 
+Perhaps the biggest discovery this year may be that I possibly and probably have an attention deficit disorder too?
 
 Thank you, mad world, for giving me all the shots I have. I am having a ball of a time. _And I have to go away to figure out where I&#8217;m going to live_. I said that to a friend, two decades older, and she simply laughed and said &#8220;that&#8217;s so Millennial of you.&#8221; I&#8217;m glad I&#8217;m a Millennial ([even ChannelNewsAsia thinks so](http://www.youtube.com/watch?v=khYFNGBDf6U)) — it&#8217;s damn confusing, but it&#8217;s a damn awesome time to be doing all these things with the world as your oyster, baked, fried or freshly shucked.

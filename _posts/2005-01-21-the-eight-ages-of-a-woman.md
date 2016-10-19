@@ -3,7 +3,7 @@ id: 340
 title: The Eight Ages of a Woman
 date: 2005-01-21T06:28:59+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=340
 permalink: /2005/01/the-eight-ages-of-a-woman/
 dsq_thread_id:

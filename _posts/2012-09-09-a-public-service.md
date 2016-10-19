@@ -3,7 +3,7 @@ id: 655
 title: A Public Service
 date: 2012-09-09T05:18:01+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=655
 permalink: /2012/09/a-public-service/
 dsq_thread_id:
@@ -28,7 +28,7 @@ In the process, I learned a bit about how one can verify the authenticity of a w
 
   4. In the main WPOL screen (which looks like this), click the third item on the left which says &#8220;Work Permit Validity/Application Status&#8221;.
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://popagandhi.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-08-at-1.36.25-PM1.png" alt="Screen Shot 2012 09 08 at 1 36 25 PM" title="Screen Shot 2012-09-08 at 1.36.25 PM.png" border="0" width="375" height="203" /> 
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://popagandhi.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-08-at-1.36.25-PM1.png" alt="Screen Shot 2012 09 08 at 1 36 25 PM" title="Screen Shot 2012-09-08 at 1.36.25 PM.png" border="0" width="375" height="203" />
 
   * You&#8217;ll be prompted to enter your details. If you are a foreigner or currently not residing in Singapore, check Passport and enter your passport number.
 <img style="display:block; margin-left:auto; margin-right:auto;" src="http://popagandhi.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-08-at-1.36.43-PM.png" alt="Screen Shot 2012 09 08 at 1 36 43 PM" title="Screen Shot 2012-09-08 at 1.36.43 PM.png" border="0" width="300" height="146" />
@@ -39,6 +39,6 @@ In the process, I learned a bit about how one can verify the authenticity of a w
   * If it is an invalid or forged work permit, you&#8217;ll see: Error.
 <img style="display:block; margin-left:auto; margin-right:auto;" src="http://popagandhi.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-08-at-1.38.15-PM.png" alt="Screen Shot 2012 09 08 at 1 38 15 PM" title="Screen Shot 2012-09-08 at 1.38.15 PM.png" border="0" width="350" height="58" />
 
-  * Follow up by calling the Ministry of Manpower at +65 64385122 during working hours in Singapore.</ol> 
+  * Follow up by calling the Ministry of Manpower at +65 64385122 during working hours in Singapore.</ol>
 
 Hope this helps someone.

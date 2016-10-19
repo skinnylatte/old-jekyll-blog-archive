@@ -3,7 +3,7 @@ id: 1363
 title: What 31 Feels Like
 date: 2016-10-10T18:15:53+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=1363
 permalink: /2016/10/what-31-feels-like/
 categories:
@@ -19,7 +19,7 @@ Fun but sometimes mild.
 
 Energetic and delicious.
 
-World-changing and domestic, depending on the day. 
+World-changing and domestic, depending on the day.
 
 Upwards trajectory but sometimes down.
 

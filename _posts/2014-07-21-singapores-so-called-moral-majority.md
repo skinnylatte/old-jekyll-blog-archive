@@ -5,9 +5,9 @@ date: 2014-07-21T23:51:34+00:00
 author: Adrianna Tan
 excerpt: |
   Call it what you will — if there are some among us in Singapore who fashion ourselves the conservative majority, the silent majority, the moral majority — that line, and its consequent political implementation, is bound to fail. It is not enough to view what we are currently witnessing as a ‘culture war’, as ‘us vs them’, or even as a fundamentalist Christian vs secularism issue within a solely Singaporean prism. We need to view this as an extension of a larger, global struggle for rights on the one hand, and for bigotry masque ring as 'religious liberty’ on the other, then be appropriately alarmed by what the future holds if this so-called faith-based oppression of minorities goes unchecked.
-  
+
   On Singapore's theocrats.
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=1147
 permalink: /2014/07/singapores-so-called-moral-majority/
 dsq_thread_id:
@@ -47,7 +47,7 @@ What drives the Dominionists to wage crusades in Singapore, of all places, again
 It is important for all other types of Christians to be bold in criticising the political overtures of these cultists with political aspirations. Holding your tongue from politeness, reserving your judgement until it affects you — all of those approaches only serve to distrust your religious moderation, and play into the camps of those who would claim your faith. Even if it does not affect you on a personal level — think about what this means for your faith. Even if you are unsure of where you stand theologically on homosexuality, think about what you feel about using the name of your God to justify the propagation of hatred. You can call _that_ out, at the least.
 
 **The Myth of the Rich Gay**
-  
+
 Underneath all of this, I suspect there is a strain of homophobia and ignorance entwined with class envy.
 
 A quick scan of the ‘debates’ people are currently having on the actively anti-gay Facebook pages and groups set up to fight against Pink Dot / propagate the wearing of the shirts of the colour white / establish solidarity against penguin- themed library books, shows a train of thought arise time and again: gays have it good. Gays are rich. Gays go to the gym. Gays are promiscuous. Gays drink. Gays don’t have the responsibility of a wife and two kids and family to look after. Gays can do anything they want (because they have money, education and are affluent).

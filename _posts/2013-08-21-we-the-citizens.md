@@ -4,7 +4,7 @@ title: We, The Citizens
 date: 2013-08-21T15:34:01+00:00
 author: Adrianna Tan
 excerpt: 'WeTheCitizens.sg is the first part of a side project of mine, which aims to combine technology and activism. '
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=860
 permalink: /2013/08/we-the-citizens/
 dsq_thread_id:
@@ -14,9 +14,9 @@ crisp_persona_post_view_count:
 categories:
   - Singapore
 ---
-I am pleased to announce the launch of [WeTheCitizens.sg](http://www.wethecitizens.sg), a small project following the National Day Rally speeches. 
+I am pleased to announce the launch of [WeTheCitizens.sg](http://www.wethecitizens.sg), a small project following the National Day Rally speeches.
 
-[Winnie](http://winnielim.com) and I worked on this in the 12 hours after the rally, because we just wanted to find out what people would do to improve Singapore, if they had a voice. 
+[Winnie](http://winnielim.com) and I worked on this in the 12 hours after the rally, because we just wanted to find out what people would do to improve Singapore, if they had a voice.
 
 We solicited feedback through the [#bettersg](https://twitter.com/search?q=%23bettersg&src=typd) hashtag, as well as through a web form.
 

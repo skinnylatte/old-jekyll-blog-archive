@@ -4,11 +4,11 @@ title: 'Quora: What is it like returning back to Singapore after studying abroad
 date: 2012-06-11T17:56:25+00:00
 author: Adrianna Tan
 excerpt: My lor sor answer on Quora to a question about Singapore.
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=531
 permalink: /2012/06/quora-what-is-it-like-returning-back-to-singapore-after-studying-abroad-for-a-few-years/
 dsq_thread_id:
-  - 
+  -
 crisp_persona_post_view_count:
   - 93
 categories:
@@ -23,7 +23,7 @@ Follow [Adrianna Tan](http://www.quora.com/Adrianna-Tan) on [Quora](http://ww
 _Disclaimer:_ I know my experience is very different. I work for myself. I didn&#8217;t &#8220;go west&#8221; and come back. I didn&#8217;t come back to a regular middle class Singaporean lifestyle, whatever that is. This is how it goes for me.
 
 **Short Background**
-  
+
 I followed the conventional CMEL (Chinese, middle class, English-educated/speaking, liberal) trajectory. I went to the right type of schools. My classmates were cut from the same cloth. A huge majority of them went on to study in the best schools in the US and UK. This is where our paths diverged.
 
 I&#8217;d spent all my life thinking I would do the same. &#8220;Study abroad&#8221;. Never come home. But. For various reasons, I consciously chose not to go. One of the reasons was that I did not want to get into so much debt at age 18. A scholarship was out of the picture: the bond was unfathomable. I don&#8217;t know if any of this was young clarity, or the sobering reality of looking at so many zeroes in the tuition fees for international students in the propectus, and knowing that it wasn&#8217;t going to happen. I think that was one of the best decisions I&#8217;d ever made. I went to a local university, got a decent-ish education, minimal debt. Grad school could come later.
@@ -37,7 +37,7 @@ I&#8217;ve spent the past five years mostly on my own, living in and around vari
 I&#8217;ve just recently come home.
 
 **Living at Home**
-  
+
 This is the _biggest _thing to consider. Can you live at home again?
 
 No matter how good your relations are with your family (I have a great family that I&#8217;m very close to), it&#8217;s still a bit of a shock to the system. I don&#8217;t have curfews or anything, obviously, but being answerable to _anyone _is a little weird, after all those years away. I&#8217;m used to, for example, going out and staying out the whole night, or deciding on a whim to leave a country randomly; now that I&#8217;m home, I have to _tell somebody_.
@@ -47,7 +47,7 @@ It&#8217;s not a problem. Just a routine to get used to. I&#8217;d forgotten wha
 On a practical level, it isn&#8217;t great. Unless you have some unique circumstances at home, you probably, like me, are going to find it hard to do things you normally take for granted like invite friends over and do things you&#8217;re used to, like host rowdy dinner parties with lots of alcohol. It&#8217;s not that my family would mind; it&#8217;s just that it&#8217;d be _weird_ to do it around them. Let&#8217;s not even talk about bringing people home, which I&#8217;ve ruled out completely&#8230; I can&#8217;t go back to my 17+ year old lifestyle where romance is concerned again. I just can&#8217;t. It won&#8217;t fly.
 
 **Reverse Culture Shock**
-  
+
 I have a different take on this from some of the other posters.
 
 This may be related to my line of work. I see that yes, for the most part, Singaporeans don&#8217;t give a fuck about their work.
@@ -75,7 +75,7 @@ I feel like I&#8217;m seeing this up close on the ground because I&#8217;ve chos
 Do I experience reverse culture shock when I take the trains and worry about my fellow Singaporeans and their vacuous eyes and lack of passion in anything they do? Sure, sometimes. But I&#8217;m not in any position to judge. I can&#8217;t compare it to America, land of dreams and all, but my hunch is that _it&#8217;s the same every fucking where. _That&#8217;s been true in London, that&#8217;s been true in Helsinki, that&#8217;s been true in Istanbul, Delhi, Bangalore, and everywhere else I&#8217;d been._ _People have to work hard, and finding that _dream _is so difficult if not impossible. It may be true before, but I don&#8217;t believe it is now, that Singaporeans are any _more _apathetic, dispassionate or disenfranchised than other cities. Here, as in elsewhere, there are groups of people who try to make a change, who try to be positive change-makers.
 
 **Social Expectations**
-  
+
 Sure, you&#8217;re going to feel these social expectations when you&#8217;re home. I don&#8217;t think it&#8217;s necessarily a Singaporean construct — it&#8217;s very much an Asian construct — if you were Indian returning home to India, Chinese returning home to China, Thailand, Indonesia, _whatever_, you&#8217;re going to feel some of these social expectations.
 
 You can&#8217;t really control that.
@@ -97,7 +97,7 @@ You can, of course, move out. If you can afford it.
 Which is another bag of balls entirely (next).
 
 **Cost of Living**
-  
+
 The cost of living is pretty damn high right now. And climbing. I don&#8217;t have any clever insights into it.
 
 If you&#8217;ve been educated abroad and are of a certain background, I&#8217;d assume you have the ability to secure a certain type of job — with a certain type of payscale. I have never been in a corporate environment so I can&#8217;t tell you about the racial salary ceilings or anything like that.
@@ -111,7 +111,7 @@ I know some people who have moved away because they don&#8217;t see their lives 
 For various reasons I cannot quite place (probably sentimental/ political), I am back here and I am working towards buying my own property here. This won&#8217;t happen for another 3 years. Being unable to buy a HDB flat, and being unable and willing to spend $1500 psf on a condo _down the road _from my suburban home, it&#8217;s just not an option right now. Living in a shoebox isn&#8217;t an option (yes, MoS Tan — _it is really out of reach and unattainable now; and yes, all the rest of the Ministers, everything has really shrunk_).
 
 **Increasingly Cosmopolitan**
-  
+
 I like the vibe here now. It&#8217;s very different from a couple of years ago. Yep, we&#8217;d always been an international city; but there&#8217;s something else.
 
 I for one welcome the influx of immigrants (although I would like to see more infrastructural planning and better labour planning) because of diversity they bring to our cultural landscape.
@@ -127,7 +127,7 @@ Some days, I don&#8217;t think so, but most of it, I do.
 (This is a pretty new conclusion for me&#8230; if you know my previous opinions on the country prior to leaving.)
 
 **Work**
-  
+
 For the most part, of the people I know from Singapore — as in classmates, people who&#8217;ve lived here for a while — they&#8217;re split down the middle in terms of work.
 
 One camp, of the &#8216;work is just what I do to make money&#8217; camp.
@@ -145,7 +145,7 @@ I know not everybody is interested in setting up or running businesses, but that
 Otherwise, I&#8217;ve been doing a bit of consulting work with tech companies here and it&#8217;s a pretty fun, collegiate, everybody-knows-everybody no-matter-where-you&#8217;re-from sort of scene. I may be biased because one of the main reasons I&#8217;m back here is coz I&#8217;m heavily involved in building it.
 
 **Politics**
-  
+
 I&#8217;ve been keeping this one.
 
 I&#8217;ll keep this short, because it&#8217;s not something I can stop talking about once I begin.
@@ -165,7 +165,7 @@ Am I afraid of political polarity that divides down the middle? It can certainly
 Even taking away the sampling bias, I really think that&#8217;s become more and more true that Singapore is becoming more interesting politically. Even if some aren&#8217;t doing something about it actively — they are asking how they can do that, planning to, feeling more empowered. Some are just more outraged. But _I now know more people who are part of or involved with or volunteering for all sorts of political parties and NGOs and grassroots organizations. _
 
 **Conclusion**
-  
+
 Sometimes, I wonder if I like Singapore more and more because I&#8217;ve been away from it for so long, and when I&#8217;m back I can pick and choose the best bits that I want. I know that my experiences and opinions don&#8217;t speak for everyone.
 
 I know that I have the ability to leave at any time, which might be why Singapore doesn&#8217;t get to me the way it used to; it certainly changes everything. But then I&#8217;ve also heard the exact same thing being said of other small cities by people who were from there: Helsinki, Berlin, etc; that they liked their cities more when they could leave it and return.

@@ -5,9 +5,9 @@ date: 2012-03-27T16:42:02+00:00
 author: Adrianna Tan
 excerpt: |
   I have seen some places in my short travelling life, but rarely a place that offers me chocolate and naked women within two hours of arriving.
-  
+
   Helsinki turned out to be such a place.
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=438
 permalink: /2012/03/chocolate-nudity-helsinki/
 dsq_thread_id:
@@ -18,7 +18,7 @@ categories:
   - Travel
 ---
 [<img src="http://farm8.staticflickr.com/7180/7020266555_0b55bd1e4d_z.jpg" width="640" height="640" alt="Pipo outside the Kiasma museum" />](http://www.flickr.com/photos/skinnylatte/7020266555/ "Pipo outside the Kiasma museum by skinnylatte, on Flickr")
-  
+
 <small><em>I brought my Dahon D7HG to Helsinki. More on that in another entry.</em></small>
 
 I have seen some places in my short travelling life, but rarely a place that offers me chocolate and naked women within two hours of arriving.

@@ -3,7 +3,7 @@ id: 1400
 title: Wordpress to Jekyll
 date: 2016-10-18T18:15:53+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=1400
 permalink: /2016/10/wordpress-to-jekyll/
 categories:

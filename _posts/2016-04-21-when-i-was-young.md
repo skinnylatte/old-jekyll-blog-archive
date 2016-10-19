@@ -3,7 +3,7 @@ id: 1248
 title: When I Was Young
 date: 2016-04-21T18:22:54+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=1248
 permalink: /2016/04/when-i-was-young/
 categories:

@@ -3,7 +3,7 @@ id: 998
 title: A New Way Forward, Fists Forward?
 date: 2013-12-08T22:43:29+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=998
 permalink: /2013/12/a-new-way-forward-fists-forward/
 dsq_thread_id:
@@ -31,19 +31,19 @@ In short, the party resolved to do everything exactly what it has resolved to do
 
 Given that it&#8217;s a party convention and it is not election season, this was not a time to create a manifesto or debate policy, I get that. It was a time to affirm its core values, which it has. It was also a time to acknowledge its challenges and internally decide how it can evolve to meet them. It appears they chose the path of taking on those challenges — head on.
 
-It&#8217;s a little puzzling that the mouthpiece chosen to address exactly this should be that shining light of the PAP&#8217;s fourth-generation politician, Chan Chun Sing. 
+It&#8217;s a little puzzling that the mouthpiece chosen to address exactly this should be that shining light of the PAP&#8217;s fourth-generation politician, Chan Chun Sing.
 
-Our political process is addicted to our military men turned Prime Ministers and top leaders, which is all well and good (well, not really but that&#8217;s another story for another day), until you realise that military men never lose their uniforms. 
+Our political process is addicted to our military men turned Prime Ministers and top leaders, which is all well and good (well, not really but that&#8217;s another story for another day), until you realise that military men never lose their uniforms.
 
 Chan Chun Sing wants to do battle. On every street corner. Every cyberspace corner. In mass media. Social media. And so forth ([link](http://www.channelnewsasia.com/news/singapore/pap-will-make-sure-s/914432.html)). With you. What&#8217;s more, he will not concede the space — physical or cyber. At all. Just before that he was saying the PAP had to improve its communications&#8230;
 
-What&#8217;s wrong with this picture here? 
+What&#8217;s wrong with this picture here?
 
 Vocabulary is everything. Thus far our leaders have demonstrated an outsized inability to understand just how they don&#8217;t understand the media. Used to owning the message right through to the last soundbite through old forms of media control, that ship has long sailed and they do not understand they are no longer even on the boat. Their ministers struggle to explain themselves, even with well-meaning messages. Politicians of all people should understand the importance of the soundbite. The difference that vocabulary makes. Instead we parade the lack of charisma and military style buffoonery to be hallmarks of Singapore governance: is it because if someone isn&#8217;t slick and sophisticated, we should believe him more?
 
-I don&#8217;t need Mr Chan to be sleek. I just don&#8217;t want to have to do battle with him. I&#8217;m not going to win. All he has to do is feed me army food and I will concede defeat. 
+I don&#8217;t need Mr Chan to be sleek. I just don&#8217;t want to have to do battle with him. I&#8217;m not going to win. All he has to do is feed me army food and I will concede defeat.
 
-I&#8217;m just a concerned young citizen of this great nation who wants to know if they have any ideas about how they are going to evolve as a party which is quite frankly losing its sheen. Perhaps even its ideas. I _want_ them to concede the space. Move over somewhere and let the other guy talk. Maybe not even the other guy, that may be too much to ask of them for the time being — let _some other guy_ talk. Like the guy who doesn&#8217;t want to fight me on the street corner. 
+I&#8217;m just a concerned young citizen of this great nation who wants to know if they have any ideas about how they are going to evolve as a party which is quite frankly losing its sheen. Perhaps even its ideas. I _want_ them to concede the space. Move over somewhere and let the other guy talk. Maybe not even the other guy, that may be too much to ask of them for the time being — let _some other guy_ talk. Like the guy who doesn&#8217;t want to fight me on the street corner.
 
 I&#8217;m not yet convinced that they are completely irrelevant. But I am alarmed by where they are going. For a start I would like them to wean themselves off their addiction to [legal action against private citizens](http://yawningbread.wordpress.com/2013/11/27/agc-versus-me-the-2013-round/) who have something to say. That&#8217;s not a fight they&#8217;re spoiling for; that&#8217;s a long-range missile against people who only have fruit to throw at you.
 

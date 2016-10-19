@@ -3,7 +3,7 @@ id: 1047
 title: An Indian Decade
 date: 2014-02-03T01:18:47+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=1047
 permalink: /2014/02/an-indian-decade/
 dsq_thread_id:
@@ -13,7 +13,7 @@ categories:
   - 'Life &amp; Love'
 ---
 
-  
+
 _<small>As a wee child in Varanasi before I threw away my backpacker wardrobe.</small>_
 
 I&#8217;ve been coming and going from India for the last ten years.
@@ -45,8 +45,8 @@ Where do I begin?
 Do I begin with the story of how hearing my China-born grandparents conversing in market-Tamil with our Tamil neighbours as a child mesmerised me whole, leading me to watch Tamil movies endlessly wondering why I could not understand the dialogue? I was _convinced _I was Indian, there was just no other way about it: being told at age 5 that I was a disgrace of a Chinese person for not being good enough at a language nobody spoke at home (we spoke dialects and English instead of Mandarin), only made me more determined. The singing and the dancing and the prancing around trees made sense to me; the kungfu television shows felt alienating.
 
 Or perhaps it has something to do with how I was born a stone&#8217;s throw away from Little India, how my parents were wed on Diwali, and for the astrologically-minded — of which I am not — that made perfect sense to explain away my identity confusion? My solo walks around Little India as a teenager led me into informal Tamil lessons I can no longer remember, and spice shop tastings that made me _feel_, for once, that this is a home I understand? _
-  
-_ 
+
+_
 
 Or that nearly all of my early mentors in childhood and adolescence were Tamil-Teochew poets and Sanskrit scholars who imparted in me a love for rhyme and meter and an irrational fear of booming voices; that later in life, nearly all of my friends, lovers, business mentors and collaborators would also be connected to India in some way or other?
 

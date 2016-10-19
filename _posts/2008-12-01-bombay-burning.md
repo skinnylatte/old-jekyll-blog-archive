@@ -3,7 +3,7 @@ id: 38
 title: Bombay Burning
 date: 2008-12-01T12:16:59+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=38
 permalink: /2008/12/bombay-burning/
 dsq_thread_id:

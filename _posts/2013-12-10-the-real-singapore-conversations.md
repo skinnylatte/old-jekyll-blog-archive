@@ -3,7 +3,7 @@ id: 1006
 title: The Real Singapore Conversations
 date: 2013-12-10T12:48:45+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=1006
 permalink: /2013/12/the-real-singapore-conversations/
 dsq_thread_id:
@@ -24,11 +24,11 @@ When our planners believed demography to be a function of race and ethnicity ins
 
 When our infrastructure creaked under the weight of all of the people we did not expect, we realised that train lines not only do not build themselves quite quickly enough: people also do not build ties with each other quite enough.
 
-When popular and political opinion turned, the same people who told us they got this told us they still got this, and now chased the people who came to build a home away. 
+When popular and political opinion turned, the same people who told us they got this told us they still got this, and now chased the people who came to build a home away.
 
 And we the people failed to reach out to each other to learn that despite what we felt about our government, that should not really matter: oppose the policy, not the people who came here.
 
-The last time in our history there were overturned vehicles and fires was at the very start of our journey as a Republic. 
+The last time in our history there were overturned vehicles and fires was at the very start of our journey as a Republic.
 
 Tonight the vehicles burn for different reasons: the episodes are incomparable.
 

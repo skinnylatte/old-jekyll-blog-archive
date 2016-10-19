@@ -4,7 +4,7 @@ title: The Road Less Ridden
 date: 2012-05-30T01:30:45+00:00
 author: Adrianna Tan
 excerpt: A girl. A bike. A panda.
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=465
 permalink: /2012/05/the-road-less-ridden/
 dsq_thread_id:
@@ -16,7 +16,7 @@ categories:
   - Travel
 ---
 [<img src="http://farm6.staticflickr.com/5198/6908473930_d4581c64eb_n.jpg" alt="Cycling in Stockholm" width="320" height="320" />](http://www.flickr.com/photos/skinnylatte/6908473930/ "Cycling in Stockholm by skinnylatte, on Flickr")
-  
+
 _Stockholm is beautiful in spring. I stopped here to take some photos and drink the Coke that the Thai takeout lady gave me for speaking my pidgin Thai to her. &#8220;Free Coke! You Thai-girl same same!&#8221;_
 
 In my [mother tongue](http://en.wikipedia.org/wiki/Teochew_dialect) we have a brilliant turn of phrase. _Geh kiang_. Separately, they mean _fake clever_. Together, it means some approximation of &#8216;smart alec&#8217;, but that&#8217;s not quite good enough. It&#8217;s hardly translatable at all. &#8216;Smart alec&#8217; does not embody the degree of stupidity we are usually referring to when we say &#8216;geh kiang&#8217;.
@@ -48,7 +48,7 @@ I, however, was very stupid. I tried to fix what I thought was a loose nut, myse
 Somehow, I managed to find an excellent bicycle shop where its owner and mechanics were super helpful. Since it&#8217;s not even a part that my bicycle&#8217;s manufacturer offers for sale, it seemed pretty dire. Thankfully, a quick-thinking mechanics with extraordinary ability in plastics (he had a degree in plastics engineering) took a look at the broken plastic bits, and he made a brand new doohickey for me. That entire process took a week so I had to go to Tallinn without my bicycle, but I was relieved that I wouldn&#8217;t be travelling around with an unridable piece of junk for the next 3 weeks. More glad that it got fixed. I got lucky.
 
 **I had to be rescued by Swedish police**
-  
+
 Not something I care to repeat ever again, but.. what an experience.
 
 I was cycling along the bike lanes from Kungsholmen to Stockholm Central, happily zipping along at 25km/h with an air of familiarity. I was starting to really _get_ where things were in Stockholm, and I&#8217;d had some amazing city rides. Seems like Stockholm Central hates me for some inexplicable reason. The last time I was there in 2010, I got locked out of Stockholm Central for many hours while my luggage was locked in.
@@ -76,7 +76,7 @@ Stockholm police&#8217;s parting words to me: &#8220;you should take a photo and
 _Damn malu._
 
 **I had to carry a ton of weight every step of the way**
-  
+
 Let&#8217;s just say travelling with a bicycle, no matter how light, is not for the faint of heart. I only moved all my bags _and_ the bicycle when I moved to a new city or went to the train station or airport, but when I moved, I _moved_.
 
 One of the last minute decisions before leaving for Helsinki was that I would bring a silly little trolley with me. The kind that aunties go to the wet market with: the flimsy, plastic ones that are given out free at computer fairs or promotions. I don&#8217;t know how I managed without it. Although my Dahon D7HG is quite tiny when folded, and it was also in a soft bag, the overall package including the paddings, foam and bubble wrap made for an uncarry-able package. I also had my large backpack and camera backpack. Why didn&#8217;t I just pack it in a Samsonite case? I&#8217;ve tried that many times, each time to devastating results. First, dismantling the bike is pretty easy. Getting it to fit isn&#8217;t. Unlike most other 20&#8243; Dahon bikes, the D7HG Vitesse that I have has a large rear fender. It is close to impossible to remove, and without removing it, the bicycle does not fit into _any_ luggage. It also has a hub gear, which makes it difficult to remove the rear wheel. More importantly, because of the hub gear _and_ the rear fender, I&#8217;m not able to confidently put it back. I decided to avoid that nightmare this time. [mrbrown](http://mrbrown.com) and Ryan helped me _zhng_ a makeshift soft bag carry method. It served me well.
@@ -96,13 +96,13 @@ Before going, I was quite shaky on the roads. I did not like the idea of riding 
 Since I got home to Singapore, there&#8217;s been a lot of talk about how public transport has become absolutely terrible. I agree it has deteriorated substantially, but my own personal way of getting around that problem is to ride more and talk less. I would be quite happy to cycle-commute at least 40% of the time in Singapore. Next time I travel, I _am_ taking the bike with me again. Anywhere. Everywhere.
 
 [<img src="http://farm6.staticflickr.com/5275/6945598184_d7bcf8a481.jpg" alt="Bike racks in bike cabins on Copenhagen S-tog" width="500" height="374" />](http://www.flickr.com/photos/skinnylatte/6945598184/ "Bike racks in bike cabins on Copenhagen S-tog by skinnylatte, on Flickr")
-  
+
 _My beautiful Pipo in the S-train in Copenhagen_
 
 [<img src="http://farm6.staticflickr.com/5316/6945593512_2988609f5f.jpg" alt="A quiet last day in Copenhagen" width="500" height="500" />](http://www.flickr.com/photos/skinnylatte/6945593512/ "A quiet last day in Copenhagen by skinnylatte, on Flickr")
-  
+
 _Last day in the Nordics. Took my bike out on a 40+ km DIY bike tour of Copenhagen. Drank a lot of coffee. Got into a plane, unshowered, and flew the 12+ hours home to the tropics. What a life. What a trip._
 
 [<img src="http://farm9.staticflickr.com/8154/7296159996_df99cf6ed7.jpg" alt="Me and all my barang" width="375" height="500" />](http://www.flickr.com/photos/skinnylatte/7296159996/ "Me and all my barang by skinnylatte, on Flickr")
-  
+
 _Super Geh Kiang Me._

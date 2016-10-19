@@ -3,7 +3,7 @@ id: 394
 title: And All The Roads That Lead You There Were Winding
 date: 2009-05-12T06:36:53+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=394
 permalink: /2009/05/and-all-the-roads-that-lead-you-there-were-winding/
 dsq_thread_id:
@@ -27,7 +27,7 @@ And the sights I’ve seen, I’m amazed by the opportunity – and good luck I�
 The long bus rides. I left Damascus last week and 36 hours later arrived in Antalya, but not before being stranded in Adana with too many Syrian pounds but no Turkish lira – and no money changer or warm clothes in the freezing cold of an eastern Turkish morning.
 
 Done with my last bus ride (12 hours from Goreme to Istanbul), I now sleepwalk through Taksim Square at 7 in the morning, pleased to be back to one of my favourite cities in the world. One that makes me thankful for the beautiful people I call my friends, who last shared this city with me
-  
+
 &#8211; Alp, Z and gang. It was the city where Fortylove.tv was conceived, at the start of this tremendous journey.
 
 But journeys never end, only their chapters do. It strikes me now that for all my complaints and grievances about the middle east, this region is truly special and needs to be seen to be understood. And I’m glad I had the chance to see it while I could.

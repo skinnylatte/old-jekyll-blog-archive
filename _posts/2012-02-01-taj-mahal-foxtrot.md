@@ -3,7 +3,7 @@ id: 257
 title: Taj Mahal Foxtrot
 date: 2012-02-01T01:48:52+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=257
 permalink: /2012/02/taj-mahal-foxtrot/
 dsq_thread_id:
@@ -16,7 +16,7 @@ categories:
 ---
 _A note from New Delhi_
 
-  
+
 <span><em><a href="http://soundcloud.com/naresh-fernandes/taj-mahal-foxtrot">Taj Mahal Foxtrot</a>, namesake of <a href="http://www.tajmahalfoxtrot.com/">the book</a> by the same name by <a href="http://soundcloud.com/naresh-fernandes">naresh.fernandes</a></em></span>
 
 Another new year, another bad habit: I&#8217;m late, again.
@@ -31,9 +31,9 @@ Everything feels different. Only India feels the same.
 
 This winter made Rajasthan different from the last. It was much better, with its cool — almost too cool — air, dry spells. Not quite as cold as Delhi.
 
-Hurtling through traffic, avoiding cows and camels, stopping occasionally for a &#8216;sulabh&#8217; break — BYOTP (Bring your own toilet paper), the Innova, the &#8220;metal cow&#8221; of the Indian road made its way through all places familiar and strange. 
+Hurtling through traffic, avoiding cows and camels, stopping occasionally for a &#8216;sulabh&#8217; break — BYOTP (Bring your own toilet paper), the Innova, the &#8220;metal cow&#8221; of the Indian road made its way through all places familiar and strange.
 
-We made a makeshift cinema on the rooftop of the small bed & breakfast we were staying at, shivering in the cold under bundles of blankets, with a dazzling view of the Umaid Bhawan in the near horizon. 
+We made a makeshift cinema on the rooftop of the small bed & breakfast we were staying at, shivering in the cold under bundles of blankets, with a dazzling view of the Umaid Bhawan in the near horizon.
 
 We drank copious amounts of lassi.
 
@@ -45,23 +45,23 @@ We didn&#8217;t break up at the Taj Mahal.
 
 I&#8217;m in a different place now. A good place.
 
-Not too long ago I was hopping around some parts of the world on a series of one way tickets, with nothing to hold me down to any place or any one. Just me, my backpack, my cameras, notepads, my lone self in a [hostel](http://www.hostelworld.com/hostels/New-York) room for one, on the lonely (but fun) road to self-discovery. That part of my life seems to be a distant past now. The places are the same but the package is different. I could not go away for a year now, not without looking back wistfully at some people, things and creatures. 
+Not too long ago I was hopping around some parts of the world on a series of one way tickets, with nothing to hold me down to any place or any one. Just me, my backpack, my cameras, notepads, my lone self in a [hostel](http://www.hostelworld.com/hostels/New-York) room for one, on the lonely (but fun) road to self-discovery. That part of my life seems to be a distant past now. The places are the same but the package is different. I could not go away for a year now, not without looking back wistfully at some people, things and creatures.
 
 _The things that bind_ come when you least expect it.
 
-They were the crazy thoughts that slip into your head when you meet someone for the first time — at a bar, or at least that&#8217;s how it was for me. The furious back-and-forth binary exchanges through various electronic sources. A text. An email. A few stamps in your passport and many flight tickets later, and you&#8217;re _settled_. Sort of. Settled as far as you can be. You go to a city, rent a house, set up a business, own a dog, and suddenly you&#8217;re one of those people boring hippies to death about how you love Singapore because you can go jogging at three in the morning and feel safe. Suddenly you&#8217;re one of those regular people who can go someplace breathtakingly beautiful like the Taj Mahal and feel nothing except annoyance at the incessant crowds, and you&#8217;re not the sort of girl who goes to the Taj Mahal and breaks up with the person next to you anymore. 
+They were the crazy thoughts that slip into your head when you meet someone for the first time — at a bar, or at least that&#8217;s how it was for me. The furious back-and-forth binary exchanges through various electronic sources. A text. An email. A few stamps in your passport and many flight tickets later, and you&#8217;re _settled_. Sort of. Settled as far as you can be. You go to a city, rent a house, set up a business, own a dog, and suddenly you&#8217;re one of those people boring hippies to death about how you love Singapore because you can go jogging at three in the morning and feel safe. Suddenly you&#8217;re one of those regular people who can go someplace breathtakingly beautiful like the Taj Mahal and feel nothing except annoyance at the incessant crowds, and you&#8217;re not the sort of girl who goes to the Taj Mahal and breaks up with the person next to you anymore.
 
-No one ever tells you it&#8217;s going to get better in your twenties. 
+No one ever tells you it&#8217;s going to get better in your twenties.
 
 They don&#8217;t. Okay, so you can drink Yakult everyday before lunch and after lunch, and nobody tells you you&#8217;ve gotta eat a vegetable. That&#8217;s where it gets tricky. No one tells you anything — you&#8217;re supposed to know. About everything. About salaries and savings. About weddings and funerals. About businesses and jobs. About children and insemination. About&#8230; everything. It&#8217;s up to you. You can drink as much Yakult as you want, but if you _lau sai_, you take yourself to hospital and you pay for your own medical bills. You can go through life never eating a single vegetable if you don&#8217;t feel like it, but when you&#8217;re constipated&#8230; _well, never mind_.
 
-You amble through life, finish college, and if you&#8217;re lucky, acquire some sense of purpose — I like to think I was lucky in that department — and then you try to make yourself a success. Somewhere along the way, one of your friends is going to die in an accident, another one of your friends is going to be diagnosed with a terminal disease, and there&#8217;s going to be absolutely nothing anyone can do when faced with sudden mortality: something most of us have not had to think about until now. 
+You amble through life, finish college, and if you&#8217;re lucky, acquire some sense of purpose — I like to think I was lucky in that department — and then you try to make yourself a success. Somewhere along the way, one of your friends is going to die in an accident, another one of your friends is going to be diagnosed with a terminal disease, and there&#8217;s going to be absolutely nothing anyone can do when faced with sudden mortality: something most of us have not had to think about until now.
 
 I&#8217;m not sad or anything like it. Quite the opposite. I _love_ what I do (btw, it&#8217;s a combination of writing, speaking, and separately of selling and making apps and running a small company that makes apps), I wake up every morning the master of my own time and location — which is something I established a long time ago as a bare minimum for any endeavour. I will be where I want to be, when I want to be. This has meant 800km trips up and down the North-South Highway every other week, crazy meetings packed in rapid succession, and some sort of invisible third arm growth that is my iPhone and high speed internet connection.
 
 Some mornings, though, I wake up _missing_ the part of me that&#8217;s long gone. That part of me that used to write furiously, take good photos, chase stories, pursue any trail of human interest in my vicinity. I&#8217;m not complacent or anything: I&#8217;ve just lost it. Like not knowing how to play a piano again from neglect, despite banging on it for 10 years: I&#8217;ve just lost it. I&#8217;ve lost my need to go to places, see things, talk to people, take photographs, write stories. I&#8217;ve lost my wide-eyed curiosity and innocence — I&#8217;ve seen it all before, my brain tells me, and there are precious few things in the world that leap out at me the way everything once did. Absolutely none in the developed world, which doesn&#8217;t interest me anthropologically or culturally in any way, and a dwindling number in the developing world. India. Yemen. Syria. Places like that — full of raw energy, waiting to be unearthed. And in India&#8217;s case, ever-surprising and ever-ready, no matter how many times I go back there.
 
-Then there&#8217;s the writing. Not having had the discipline, time or desire to write as often or as much as I once did, the year or two of utter neglect is leaving me scrambling to pick up the pieces before I lose it forever. It&#8217;s difficult to keep writing when you&#8217;ve been stuck, as so many writers before you have been, on that one debut novel you&#8217;ve been hacking away at for years. On the bright side, I am at a better place right now to write — and finish — that novel. 
+Then there&#8217;s the writing. Not having had the discipline, time or desire to write as often or as much as I once did, the year or two of utter neglect is leaving me scrambling to pick up the pieces before I lose it forever. It&#8217;s difficult to keep writing when you&#8217;ve been stuck, as so many writers before you have been, on that one debut novel you&#8217;ve been hacking away at for years. On the bright side, I am at a better place right now to write — and finish — that novel.
 
 /\* \*/
 

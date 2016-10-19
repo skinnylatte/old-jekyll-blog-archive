@@ -3,7 +3,7 @@ id: 1320
 title: Panic at the Disco
 date: 2016-06-14T01:36:41+00:00
 author: Adrianna Tan
-layout: post
+layout: single
 guid: http://popagandhi.com/?p=1320
 permalink: /2016/06/panic-at-the-disco/
 categories:
