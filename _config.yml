@@ -9,9 +9,9 @@
 locale                   : "en"
 title                    : "Popagandhi"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Adrianna Tan"
+description              : "Between tech, non-profits and scifi."
+url                      : # the base hostname & protocol for your site e.g. "https://popagandhi.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Adrianna Tan"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Startup founder in SE Asia."
+  location         : "Indonesia"
+  email            : skinnylatte@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -89,10 +89,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : http://github.com/skinnylatte
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : http://instagram.com/skinnylatte
   lastfm           :
   linkedin         :
   pinterest        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : skinnylatte
   vine             :
   weibo            :
   xing             :
