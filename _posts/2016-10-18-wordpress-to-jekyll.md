@@ -4,8 +4,11 @@ title: Wordpress to Jekyll
 date: 2016-10-18T18:15:53+00:00
 author: Adrianna Tan
 layout: single
+header:
+  image: images/yaml-atom.png
 guid: http://popagandhi.com/?p=1400
 permalink: /2016/10/wordpress-to-jekyll/
+
 categories:
   - 'Tech'
 ---
