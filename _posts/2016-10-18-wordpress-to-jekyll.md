@@ -5,7 +5,7 @@ date: 2016-10-18T18:15:53+00:00
 author: Adrianna Tan
 layout: post
 guid: http://popagandhi.com/?p=1400
-permalink: /wordpress-to-jekyll/
+permalink: /2016/10/wordpress-to-jekyll/
 categories:
   - 'Tech'
 ---

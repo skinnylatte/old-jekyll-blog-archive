@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jekyll/jekyll-archives.git
-  revision: af9e9cc8184768da44c423426b5cdf43b9df6356
+  revision: 90bfe8446c0fcb2f5d75a86553e090ef27be2350
   specs:
     jekyll-archives (2.1.0)
       jekyll (>= 2.4)
@@ -32,7 +32,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
-    jekyll-swiss (0.4.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.12.0)
@@ -41,6 +40,7 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    minimal-mistakes-jekyll (4.0.1)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     rb-fsevent (0.9.7)
@@ -54,9 +54,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll (~> 3.3.0)
   jekyll-archives!
   jekyll-feed!
-  jekyll-swiss
+  minimal-mistakes-jekyll
 
 BUNDLED WITH
    1.13.5
