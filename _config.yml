@@ -11,6 +11,9 @@ description: Between tech startups, non-profits and scifi.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/2878228?v=3&s=466
 
+# Adding themes
+theme: "minimal-mistakes-jekyll"
+
 # Flags below are optional
 
 # Pagination values
