@@ -11,8 +11,4 @@ categories:
   - Links
 format: link
 ---
-<blockquote data-secret="yi2O4ZvmiS" class="wp-embedded-content">
-  <p>
-    <a href="http://www.brinknews.com/asia/techs-role-in-reaching-indonesias-rising-middle-class/">Tech’s Role in Reaching Indonesia’s Rising Middle Class</a>
-  </p>
-</blockquote>
+I've started writing articles for Brink, a new media publication by the same people behind the Atlantic. My first piece is on [Tech’s Role in Reaching Indonesia’s Rising Middle Class](http://www.brinknews.com/asia/techs-role-in-reaching-indonesias-rising-middle-class).
