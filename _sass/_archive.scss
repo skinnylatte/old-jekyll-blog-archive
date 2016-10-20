@@ -43,7 +43,7 @@
 
 /* add color and hover behavior to links in archive layout */
 
-.archive {
+.archive__item {
   a {
     &:focus {
       @extend %tab-focus;
