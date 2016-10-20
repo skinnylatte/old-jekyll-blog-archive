@@ -41,21 +41,6 @@
   }
 }
 
-/* add color and hover behavior to links in archive layout */
-
-.archive__item {
-  a {
-    &:focus {
-      @extend %tab-focus;
-    }
-
-    &:hover,
-    &:active {
-      outline: 0;
-    }
-  }
-}
-
 /* remove border*/
 .page__content {
 
