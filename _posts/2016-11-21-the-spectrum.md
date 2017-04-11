@@ -37,6 +37,6 @@ To be on the spectrum is to have few tools for anger and other emotional process
 
 It feels like living in a bad torrent. It is a blockbuster movie to everyone else who somehow always finds a way to watch the IMAX version. But yours resembles a pirated movie torrent with an audio track that is 10 seconds out of sync — ahead. It all sounds like gibberish, and there are somehow no subs of the right language and container size and codec. You have to watch it anyway.
 
-I am lucky to have finally found an algorithmic match. My partner of 14 months was the first person to give me all the inputs: these are my parameters, these are yours, this is where we meet, and by the way you should get help for the bad torrent you are living in. Slowly, the other movie is coming into focus.
+Slowly, the other movie is coming into focus.
 
 Maybe I'll never be able to see all of it in high fidelity, but — I'm told it is up to people like us to find new standards of definition.
