@@ -228,20 +228,5 @@ compress_html:
   ignore:
     envs: development
 
-# Add defaults
-
-<<<<<<< HEAD
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
 =======
 # google_analytics: "UA-58263416-1"
