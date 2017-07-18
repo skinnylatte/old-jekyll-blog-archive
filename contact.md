@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Contact Adrianna
 ---
 
@@ -9,7 +9,7 @@ title: Contact Adrianna
     <p class="intro">Contact me here if you have questions, requests for interviews, invitations to speak or proposals to collaborate. I frequently speak at schools and corporate events in Asia.</p>
 
     <p>I'm happy to hear from everyone, although I may not respond to all emails. The fastest way to reach out to me is to <a href="http://twitter.com/@skinnylatte">tweet at me</a>.
-  
+
   </div>
   <form action="http://formspree.io/skinnylatte@gmail.com" method="POST">
     <label for="name">Name</label>
