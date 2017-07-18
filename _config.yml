@@ -27,3 +27,5 @@ social:
    email: skinnylatte@gmail.com
 
 # google_analytics: "UA-58263416-1"
+
+theme: jekyll-theme-minimal
