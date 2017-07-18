@@ -230,6 +230,7 @@ compress_html:
 
 # Add defaults
 
+<<<<<<< HEAD
 defaults:
   # _posts
   - scope:
@@ -242,3 +243,5 @@ defaults:
       comments: false
       share: true
       related: true
+=======
+# google_analytics: "UA-58263416-1"
