@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-# locale                   : "en"
+locale                   : "en"
 title                    : "Popagandhi"
 title_separator          : "-"
 name                     : "Adrianna Tan"
@@ -183,7 +183,6 @@ gems:
   - jekyll-feed
   - jekyll-archives
   - jemoji
-  - jekyll-github-metadata
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -213,7 +212,7 @@ category_archive:
 #  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 
- jekyll-archives:
+jekyll-archives:
    enabled:
      - categories
    layouts:
@@ -245,3 +244,7 @@ defaults:
       comments: false
       share: true
       related: true
+
+## Adding Minimal Theme
+
+theme: jekyll-theme-minimal
