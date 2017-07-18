@@ -5,7 +5,6 @@ url: http://popagandhi.com
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
-theme: long-haul
 
 markdown: kramdown
 highlighter: rouge
