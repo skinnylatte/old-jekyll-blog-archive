@@ -3,7 +3,6 @@ description: Between long form cycling and tech
 
 url: http://popagandhi.com
 baseurl: ""
-repoository: skinnylatte/skinnylatte.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
