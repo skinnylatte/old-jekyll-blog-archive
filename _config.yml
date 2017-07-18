@@ -2,7 +2,8 @@ title: Popagandhi
 description: Between tech, non-profit, scifi and bikes
 
 url: http://popagandhi.com
-baseurl: ""
+# baseurl: "
+repository: "skinnylatte/skinnylatte.github.io"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
