@@ -228,5 +228,4 @@ compress_html:
   ignore:
     envs: development
 
-=======
 # google_analytics: "UA-58263416-1"
