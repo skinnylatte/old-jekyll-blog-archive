@@ -3,7 +3,7 @@ id: 887
 title: Over and Over
 date: 2013-09-05T18:22:10+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=887
 permalink: /2013/09/over-and-over/
 crisp_persona_post_view_count:

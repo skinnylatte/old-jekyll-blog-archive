@@ -3,7 +3,7 @@ id: 1006
 title: The Real Singapore Conversations
 date: 2013-12-10T12:48:45+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=1006
 permalink: /2013/12/the-real-singapore-conversations/
 dsq_thread_id:

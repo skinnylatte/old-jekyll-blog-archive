@@ -4,7 +4,7 @@ title: Insta-Helsinki
 date: 2012-04-02T21:30:06+00:00
 author: Adrianna Tan
 excerpt: Helsinki in some Instagram pictures.
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=448
 permalink: /2012/04/insta-helsinki/
 dsq_thread_id:

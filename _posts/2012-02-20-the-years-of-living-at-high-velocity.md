@@ -3,7 +3,7 @@ id: 413
 title: The Years of Living at High Velocity
 date: 2012-02-20T16:23:44+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=413
 permalink: /2012/02/the-years-of-living-at-high-velocity/
 dsq_thread_id:

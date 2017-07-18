@@ -4,7 +4,7 @@ title: Four Hours Light
 date: 2012-03-20T02:35:05+00:00
 author: Adrianna Tan
 excerpt: Helsinki, Tallinn, Stockholm, Skinnskatteberg, Malmö, Copenhagen. Once in a while, I enjoy diving deep into places I know nothing about. I have a good feeling about this trip. (Also, is this the start of real-time travel blogging for me?)
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=428
 permalink: /2012/03/four-hours-light/
 dsq_thread_id:

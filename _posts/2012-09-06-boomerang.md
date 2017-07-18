@@ -3,7 +3,7 @@ id: 633
 title: Boomerang
 date: 2012-09-06T06:19:02+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=633
 permalink: /2012/09/boomerang/
 dsq_thread_id:

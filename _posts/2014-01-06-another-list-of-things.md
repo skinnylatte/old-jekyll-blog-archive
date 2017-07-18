@@ -3,7 +3,7 @@ id: 1021
 title: Another List of Things
 date: 2014-01-06T13:35:35+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=1021
 permalink: /2014/01/another-list-of-things/
 dsq_thread_id:

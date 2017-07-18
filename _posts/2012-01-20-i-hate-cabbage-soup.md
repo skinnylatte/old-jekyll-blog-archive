@@ -3,7 +3,7 @@ id: 318
 title: I Hate Cabbage Soup
 date: 2012-01-20T20:49:32+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=318
 permalink: /2012/01/i-hate-cabbage-soup/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 1078
 title: Mahabandoola
 date: 2014-02-26T02:42:20+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=1078
 permalink: /2014/02/mahabandoola/
 dsq_thread_id:

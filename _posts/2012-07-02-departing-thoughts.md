@@ -3,7 +3,7 @@ id: 558
 title: Departing Thoughts
 date: 2012-07-02T00:39:59+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=558
 permalink: /2012/07/departing-thoughts/
 dsq_thread_id:
