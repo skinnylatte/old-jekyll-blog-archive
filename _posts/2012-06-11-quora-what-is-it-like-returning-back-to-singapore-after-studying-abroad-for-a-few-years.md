@@ -4,7 +4,7 @@ title: 'Quora: What is it like returning back to Singapore after studying abroad
 date: 2012-06-11T17:56:25+00:00
 author: Adrianna Tan
 excerpt: My lor sor answer on Quora to a question about Singapore.
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=531
 permalink: /2012/06/quora-what-is-it-like-returning-back-to-singapore-after-studying-abroad-for-a-few-years/
 dsq_thread_id:

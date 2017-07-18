@@ -4,7 +4,7 @@ title: How To Setup Business Email Without Google Apps
 date: 2013-10-16T16:35:38+00:00
 author: Adrianna Tan
 excerpt: How to set up business email without Google Apps. I like Fastmail and this is my workflow.
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=944
 permalink: /2013/10/business-email-without-google/
 crisp_persona_post_view_count:

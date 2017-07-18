@@ -7,7 +7,7 @@ excerpt: |
   Call it what you will — if there are some among us in Singapore who fashion ourselves the conservative majority, the silent majority, the moral majority — that line, and its consequent political implementation, is bound to fail. It is not enough to view what we are currently witnessing as a ‘culture war’, as ‘us vs them’, or even as a fundamentalist Christian vs secularism issue within a solely Singaporean prism. We need to view this as an extension of a larger, global struggle for rights on the one hand, and for bigotry masque ring as 'religious liberty’ on the other, then be appropriately alarmed by what the future holds if this so-called faith-based oppression of minorities goes unchecked.
 
   On Singapore's theocrats.
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=1147
 permalink: /2014/07/singapores-so-called-moral-majority/
 dsq_thread_id:

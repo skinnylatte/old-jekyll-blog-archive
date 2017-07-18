@@ -4,7 +4,7 @@ title: 'Before &#038; After The Fire'
 date: 2013-07-31T22:01:04+00:00
 author: Adrianna Tan
 excerpt: A "poem" about my family during the Great Fire of 1961.
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=846
 permalink: /2013/07/before-after-the-fire/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 469
 title: Did you hear the one about the Swedish chocolate cake?
 date: 2012-05-10T14:12:26+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=469
 permalink: /2012/05/did-you-hear-the-one-about-the-swedish-chocolate-cake/
 dsq_thread_id:

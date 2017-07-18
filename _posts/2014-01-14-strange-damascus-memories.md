@@ -3,7 +3,7 @@ id: 1034
 title: Strange Damascus Memories
 date: 2014-01-14T18:35:44+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=1034
 permalink: /2014/01/strange-damascus-memories/
 dsq_thread_id:

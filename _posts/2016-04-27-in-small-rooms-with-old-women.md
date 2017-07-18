@@ -3,7 +3,7 @@ id: 1260
 title: In Small Rooms with Betawi Women
 date: 2016-04-27T21:24:58+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=1260
 permalink: /2016/04/in-small-rooms-with-old-women/
 categories:

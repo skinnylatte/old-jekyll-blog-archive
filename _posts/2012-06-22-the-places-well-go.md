@@ -3,7 +3,7 @@ id: 541
 title: 'The Places We&#8217;ll Go'
 date: 2012-06-22T01:39:36+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=541
 permalink: /2012/06/the-places-well-go/
 dsq_thread_id:

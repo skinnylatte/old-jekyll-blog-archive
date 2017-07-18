@@ -3,7 +3,7 @@ id: 1097
 title: What I Learned
 date: 2014-03-16T03:18:05+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=1097
 permalink: /2014/03/what-i-learned/
 dsq_thread_id:

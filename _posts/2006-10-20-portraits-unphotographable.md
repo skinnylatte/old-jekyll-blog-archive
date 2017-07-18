@@ -3,7 +3,7 @@ id: 41
 title: Portraits Unphotographable
 date: 2006-10-20T12:19:14+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=41
 permalink: /2006/10/portraits-unphotographable/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 1015
 title: Little India Urban Renewal Plan
 date: 2013-12-12T14:48:02+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=1015
 permalink: /2013/12/little-india-urban-renewal-plan/
 dsq_thread_id:

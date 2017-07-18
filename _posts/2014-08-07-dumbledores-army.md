@@ -3,7 +3,7 @@ id: 1164
 title: 'Dumbledore&#8217;s Army'
 date: 2014-08-07T00:16:45+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=1164
 permalink: /2014/08/dumbledores-army/
 dsq_thread_id:

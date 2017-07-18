@@ -3,7 +3,7 @@ id: 1061
 title: The Geography of Hope
 date: 2014-02-14T02:31:38+00:00
 author: Adrianna Tan
-layout: single
+layout: default
 guid: http://popagandhi.com/?p=1061
 permalink: /2014/02/the-geography-of-hope/
 dsq_thread_id:
