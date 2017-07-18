@@ -3,7 +3,7 @@ id: 1028
 title: Back in the SL
 date: 2014-01-12T13:26:57+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=1028
 permalink: /2014/01/back-in-the-sl/
 dsq_thread_id:

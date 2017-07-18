@@ -3,7 +3,7 @@ id: 1400
 title: Wordpress to Jekyll
 date: 2016-10-18T18:15:53+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 header:
   image: yaml-atom.png
 guid: http://popagandhi.com/?p=1400

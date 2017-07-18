@@ -4,7 +4,7 @@ title: A Weekend Getaway
 date: 2013-06-08T00:41:46+00:00
 author: Adrianna Tan
 excerpt: Still scratching the surface of my favourite country in the world, this time by going to Coorg.
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=720
 permalink: /2013/06/a-weekend-getaway/
 dsq_thread_id:

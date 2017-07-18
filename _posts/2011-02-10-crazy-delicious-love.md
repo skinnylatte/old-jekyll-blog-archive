@@ -3,7 +3,7 @@ id: 58
 title: Crazy, Delicious Love
 date: 2011-02-10T01:32:15+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=58
 permalink: /2011/02/crazy-delicious-love/
 dsq_thread_id:

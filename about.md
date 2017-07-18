@@ -1,24 +1,17 @@
 ---
-layout: default
-title: About Long Haul
+layout: single
+title: About
+permalink: /about/
 ---
 
-<div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
-</div>
+Hello, I'm Adrianna.
+
+I'm a startup founder from Singapore who has spent considerable amounts of time working and living across India, Indonesia, Malaysia, Myanmar and Bangladesh, with short stints in America, the UK and Hungary.
+
+I started this site in 2002 to document some of the things that occupied me at the time — school, technology, dating, photography, travel. My interests, but for two, remain the same.
+
+Here I'll start to write more about business, family, scifi and video games. I already have a Battlestar Galactica tattoo across my forearm, so it's clear which path that's going to lead us.
+
+### Contact me
+
+The best way to contact me is to [tweet at me](http://twitter.com/@skinnylatte), or to drop me a line at skinnylatte [at] gmail.com.

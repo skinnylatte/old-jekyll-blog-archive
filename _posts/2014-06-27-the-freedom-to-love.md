@@ -3,7 +3,7 @@ id: 1134
 title: The Freedom to Love
 date: 2014-06-27T17:38:24+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=1134
 permalink: /2014/06/the-freedom-to-love/
 dsq_thread_id:

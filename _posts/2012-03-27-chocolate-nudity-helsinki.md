@@ -7,7 +7,7 @@ excerpt: |
   I have seen some places in my short travelling life, but rarely a place that offers me chocolate and naked women within two hours of arriving.
 
   Helsinki turned out to be such a place.
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=438
 permalink: /2012/03/chocolate-nudity-helsinki/
 dsq_thread_id:

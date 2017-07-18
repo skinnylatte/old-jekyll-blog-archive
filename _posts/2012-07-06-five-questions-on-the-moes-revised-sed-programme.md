@@ -3,7 +3,7 @@ id: 575
 title: 'Five Questions on the MOE&#8217;s revised SEd programme'
 date: 2012-07-06T03:55:31+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=575
 permalink: /2012/07/five-questions-on-the-moes-revised-sed-programme/
 dsq_thread_id:

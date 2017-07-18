@@ -3,7 +3,7 @@ id: 353
 title: Roundtable
 date: 2005-11-26T05:58:31+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=353
 permalink: /2005/11/roundtable/
 dsq_thread_id:

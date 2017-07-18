@@ -3,7 +3,7 @@ id: 383
 title: 'There Is Always Chicken Curry at Funerals'
 date: 2009-06-30T06:26:45+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=383
 permalink: /2009/06/chicken-curry/
 dsq_thread_id:

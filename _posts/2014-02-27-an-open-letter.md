@@ -3,7 +3,7 @@ id: 1093
 title: An Open Letter
 date: 2014-02-27T23:55:28+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=1093
 permalink: /2014/02/an-open-letter/
 dsq_thread_id:

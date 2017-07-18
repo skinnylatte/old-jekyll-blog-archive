@@ -3,7 +3,7 @@ id: 981
 title: Living with Graves
 date: 2013-11-19T18:37:28+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=981
 permalink: /2013/11/living-with-graves/
 dsq_thread_id:

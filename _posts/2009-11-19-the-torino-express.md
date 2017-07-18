@@ -3,7 +3,7 @@ id: 45
 title: The Torino Express
 date: 2009-11-19T12:21:05+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=45
 permalink: /2009/11/the-torino-express/
 dsq_thread_id:

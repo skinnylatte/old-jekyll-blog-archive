@@ -4,7 +4,7 @@ title: Private Islands for Everyone
 date: 2011-04-13T22:01:52+00:00
 author: Adrianna Tan
 excerpt: There comes a point in every traveller’s life when the experience of going to a foreign place no longer feels the same, nor as exciting as it used to be when she first began. Cities blur into similar skylines, restaurants and bars. Non-cities remain precisely that—good in small doses but rarely more. The magic of travel fades into a succession of airports, suited executives and boring business hotels, or a kaleidoscope of lobster-red package tourists and concrete bungalows on dirty beaches. Even I could not avoid that fate.
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=173
 permalink: /2011/04/private-islands-for-everyone/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 1294
 title: Kolkata Kalling
 date: 2016-05-31T20:51:24+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=1294
 permalink: /2016/05/kolkata-kalling/
 categories:

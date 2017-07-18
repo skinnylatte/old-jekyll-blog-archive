@@ -4,7 +4,7 @@ title: Wilderness TV
 date: 2012-04-08T05:27:49+00:00
 author: Adrianna Tan
 excerpt: I go off to be one with nature, and all that jazz.
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=454
 permalink: /2012/04/wilderness-tv/
 dsq_thread_id:

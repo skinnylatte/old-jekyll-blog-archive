@@ -3,7 +3,7 @@ id: 1072
 title: 'Culture Kitchen 2: Little Myanmar'
 date: 2014-02-24T15:58:33+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=1072
 permalink: /2014/02/culture-kitchen-2-little-myanmar/
 dsq_thread_id:

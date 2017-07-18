@@ -3,7 +3,7 @@ id: 367
 title: Hungry Asian Woman On The Road
 date: 2007-01-02T06:13:30+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=367
 permalink: /2007/01/hungry-asian-woman-on-the-road/
 dsq_thread_id:

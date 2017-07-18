@@ -3,7 +3,7 @@ id: 359
 title: Why I Am Still A Feminist
 date: 2006-03-15T06:06:56+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=359
 permalink: /2006/03/why-i-am-still-a-feminist/
 dsq_thread_id:

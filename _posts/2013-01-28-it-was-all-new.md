@@ -4,7 +4,7 @@ title: It Was All New
 date: 2013-01-28T01:42:47+00:00
 author: Adrianna Tan
 excerpt: Some say Orientalist. I say tomato.
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=689
 permalink: /2013/01/it-was-all-new/
 dsq_thread_id:

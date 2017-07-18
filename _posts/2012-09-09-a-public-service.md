@@ -3,7 +3,7 @@ id: 655
 title: A Public Service
 date: 2012-09-09T05:18:01+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=655
 permalink: /2012/09/a-public-service/
 dsq_thread_id:

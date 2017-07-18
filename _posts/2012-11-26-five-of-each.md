@@ -4,7 +4,7 @@ title: Five of Each
 date: 2012-11-26T02:27:47+00:00
 author: Adrianna Tan
 excerpt: A list of places and things
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=683
 permalink: /2012/11/five-of-each/
 dsq_thread_id:

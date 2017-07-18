@@ -3,7 +3,7 @@ id: 1129
 title: 'Videos Games &#038; Political Consciousness'
 date: 2014-06-05T13:02:12+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=1129
 permalink: /2014/06/videos-games-political-consciousness/
 dsq_thread_id:

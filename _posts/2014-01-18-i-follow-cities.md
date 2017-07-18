@@ -3,7 +3,7 @@ id: 1040
 title: I Follow Cities
 date: 2014-01-18T12:18:54+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=1040
 permalink: /2014/01/i-follow-cities/
 dsq_thread_id:

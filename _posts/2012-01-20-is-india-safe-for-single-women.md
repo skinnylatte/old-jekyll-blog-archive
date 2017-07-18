@@ -3,7 +3,7 @@ id: 308
 title: 'Quora: Is it safe for a single woman to travel alone in India?'
 date: 2012-01-20T18:52:05+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=308
 permalink: /2012/01/is-india-safe-for-single-women/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 476
 title: This Site, Now On Steroids
 date: 2012-05-19T21:54:37+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=476
 permalink: /2012/05/this-site-now-on-steroids/
 dsq_thread_id:

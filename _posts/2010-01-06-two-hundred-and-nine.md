@@ -3,7 +3,7 @@ id: 388
 title: Two Hundred and Nine
 date: 2010-01-06T06:29:20+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=388
 permalink: /2010/01/two-hundred-and-nine/
 dsq_thread_id:

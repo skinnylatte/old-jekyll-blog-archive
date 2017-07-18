@@ -3,7 +3,7 @@ id: 246
 title: Is This Defunct?
 date: 2011-09-06T16:44:41+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=246
 permalink: /2011/09/is-this-defunct/
 dsq_thread_id:

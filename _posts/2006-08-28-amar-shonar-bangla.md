@@ -3,7 +3,7 @@ id: 347
 title: Amar Shonar Bangla
 date: 2006-08-28T05:49:56+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=347
 permalink: /2006/08/amar-shonar-bangla/
 dsq_thread_id:

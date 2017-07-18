@@ -3,7 +3,7 @@ id: 355
 title: A Bus and Chai Story
 date: 2006-12-05T06:02:57+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=355
 permalink: /2006/12/a-bus-and-chai-story/
 dsq_thread_id:

@@ -4,7 +4,7 @@ title: The One About Having It All
 date: 2013-08-21T16:32:36+00:00
 author: Adrianna Tan
 excerpt: On being gay and female in Singapore.
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=878
 permalink: /2013/08/the-one-about-having-it-all/
 dsq_thread_id:

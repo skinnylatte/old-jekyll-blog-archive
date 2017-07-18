@@ -4,7 +4,7 @@ title: The Great Southern Trunk Road
 date: 2011-02-21T01:55:03+00:00
 author: Adrianna Tan
 excerpt: If you looked on a map, the holy southern Indian city is merely 185 kilometres from Madras. If you took a bus, it would take just under five hours. If you travelled by car, perhaps three and a little bit. Since we took an autorickshaw, our estimated travel time was something like eight hours. Or before nightfall; whichever came first.
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=116
 permalink: /2011/02/the-great-southern-trunk-road/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 1058
 title: 'Don&#8217;t Lugi Be Happy'
 date: 2014-02-11T18:07:40+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=1058
 permalink: /2014/02/dont-lugi-be-happy/
 dsq_thread_id:

@@ -4,7 +4,7 @@ title: A Drinkable History of My Family
 date: 2011-06-26T03:39:21+00:00
 author: Adrianna Tan
 excerpt: "In the tumultuous year that was 2009, I moved all my life's possessions around the world several times, and then came home to find my grandfather was going to die. Michael Jackson died. Everybody seemed to, that year."
-layout: default
+layout: single
 guid: http://popagandhi.com/?p=212
 permalink: /2011/06/a-drinkable-history-of-my-family/
 sgt_slide:

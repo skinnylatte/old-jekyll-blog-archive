@@ -2,7 +2,7 @@
 title: Do What You Don't Know
 date: 2017-04-11T18:15:53+00:00
 author: Adrianna Tan
-layout: default
+layout: single
 header:
   image: meghalaya.jpg
 permalink: /2017/04/do-what-you-dont-know
