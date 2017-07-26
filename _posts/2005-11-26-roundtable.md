@@ -2,8 +2,8 @@
 id: 353
 title: Roundtable
 date: 2005-11-26T05:58:31+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=353
 permalink: /2005/11/roundtable/
 dsq_thread_id:

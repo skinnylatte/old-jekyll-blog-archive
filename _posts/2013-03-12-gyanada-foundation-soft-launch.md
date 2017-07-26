@@ -2,9 +2,9 @@
 id: 701
 title: Gyanada Foundation Soft Launch
 date: 2013-03-12T01:30:49+00:00
-author: Adrianna Tan
+author_name: Adrianna Tan
+layout: post
 excerpt: "Announcing the launch of a new non-profit that aims to improve girls' education in four states of India."
-layout: default
 guid: http://popagandhi.com/?p=701
 permalink: /2013/03/gyanada-foundation-soft-launch/
 dsq_thread_id:

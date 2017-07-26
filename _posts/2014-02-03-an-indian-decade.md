@@ -2,8 +2,8 @@
 id: 1047
 title: An Indian Decade
 date: 2014-02-03T01:18:47+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=1047
 permalink: /2014/02/an-indian-decade/
 dsq_thread_id:

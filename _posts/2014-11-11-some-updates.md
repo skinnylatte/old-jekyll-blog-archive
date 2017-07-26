@@ -2,8 +2,8 @@
 id: 1175
 title: Some Updates
 date: 2014-11-11T15:52:10+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=1175
 permalink: /2014/11/some-updates/
 dsq_thread_id:

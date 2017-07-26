@@ -2,8 +2,8 @@
 id: 343
 title: Excavation
 date: 2005-04-11T05:47:06+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=343
 permalink: /2005/04/excavation/
 dsq_thread_id:

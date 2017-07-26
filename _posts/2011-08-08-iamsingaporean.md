@@ -2,9 +2,9 @@
 id: 224
 title: '#iamsingaporean'
 date: 2011-08-08T15:45:13+00:00
-author: Adrianna Tan
+author_name: Adrianna Tan
+layout: post
 excerpt: "Surprising thoughts on Singapore's 46th birthday. I spent many years doubting my future as part of this nation, for good reason. I always wanted to leave. I left, but as I returned I found the city's transformation to my liking."
-layout: default
 guid: http://popagandhi.com/?p=224
 permalink: /2011/08/iamsingaporean/
 sgt_slide:

@@ -1,15 +1,56 @@
- <div class="header">
-     <div class="container">
-         <h1 class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-         <nav class="nav-collapse">
-             <ul class="noList">
-                 {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
-                 <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-                     <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
-                 </li>
-                 {% endfor %}
-                
-             </ul>
-         </nav>
-     </div>
- </div><!-- end .header -->
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<link rel="stylesheet" href="Cormorant:400,400i,600,600i|Poppins:400,500,600,700&subset=latin-ext"> 
+<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+<link rel="canonical" href="{{ page.url | replace: 'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+</head>
+<body class="signals-wp">
+<div class="s-preload">
+	<div class="s-preload-wrapper">
+		{% include preloader.html %}
+	</div><!-- .s-preload-wrapper -->
+</div><!-- .s-preload -->
+
+<div id="page" class="hfeed site">
+	<header class="site-header">
+		<div class="row column">
+			<div class="site-title">
+				<a href="{{ '/' | site.baseurl }}">
+					<img src="{{ site.baseurl }}/img/logo.png" alt="{{ site.title }}" class="logo" />
+				</a>
+			</div><!-- .site-title -->
+
+			<div class="header-search">
+				<a href="javascript:;">
+					<i class="fa fa-fw fa-search"></i>
+				</a>
+			</div><!-- .header-search -->
+
+			<ul class="social-links header-links">
+				{% for social in site.social_links %}
+					<li>
+						<a href="{{ social[1][1] }}" title="{{ social[1][0] }}" target="_blank">
+							<i class="fa {{ social[1][2] }}"></i>
+						</a>
+					</li>
+				{% endfor %}
+			</ul><!-- .social-links -->
+
+			<div class="navigation">
+				<div class="mobile-navigation">
+					<a href="javascript:;">
+						<img src="{{ site.baseurl }}/img/bar.png" alt="Menu" />
+					</a>
+				</div><!-- .mobile-navigation -->
+
+				{% include navigation.html %}
+			</div><!-- .navigation -->
+		</div><!-- .row -->
+	</header><!-- .site-header -->

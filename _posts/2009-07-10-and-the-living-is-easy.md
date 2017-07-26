@@ -2,8 +2,8 @@
 id: 390
 title: And The Living is Easy
 date: 2009-07-10T06:32:43+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=390
 permalink: /2009/07/and-the-living-is-easy/
 dsq_thread_id:

@@ -2,9 +2,9 @@
 id: 668
 title: The Belated Bangkok Diaries
 date: 2013-04-10T23:31:23+00:00
-author: Adrianna Tan
+author_name: Adrianna Tan
+layout: post
 excerpt: Bangkok is one of my favourite cities in the world. It will always be.
-layout: default
 guid: http://popagandhi.com/?p=668
 permalink: /2013/04/the-belated-bangkok-diaries/
 dsq_thread_id:

@@ -2,8 +2,8 @@
 id: 664
 title: 'Left &#038; Leaving'
 date: 2012-11-19T04:18:58+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=664
 permalink: /2012/11/left-leaving/
 dsq_thread_id:

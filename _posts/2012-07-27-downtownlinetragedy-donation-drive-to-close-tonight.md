@@ -2,8 +2,8 @@
 id: 612
 title: '#downtownlinetragedy Donation Drive to Close Tonight'
 date: 2012-07-27T12:26:35+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=612
 permalink: /2012/07/downtownlinetragedy-donation-drive-to-close-tonight/
 dsq_thread_id:

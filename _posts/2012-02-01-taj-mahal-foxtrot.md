@@ -2,8 +2,8 @@
 id: 257
 title: Taj Mahal Foxtrot
 date: 2012-02-01T01:48:52+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=257
 permalink: /2012/02/taj-mahal-foxtrot/
 dsq_thread_id:

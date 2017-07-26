@@ -1,8 +1,8 @@
 ---
 title: Tan Boon Chye
 date: 2016-02-20T18:15:53+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 permalink: /2016/02/tan-boon-chye
 categories:
   - 'Life &amp; Love'

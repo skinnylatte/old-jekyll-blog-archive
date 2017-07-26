@@ -2,9 +2,9 @@
 id: 34
 title: The Country Codes My Girlfriend And I Have Known
 date: 2008-09-20T12:09:29+00:00
-author: Adrianna Tan
+author_name: Adrianna Tan
+layout: post
 excerpt: "The start of a few crazy years. IDD calls, Skype chats and what seemed to be endless airplane tickets. I was my telco's favourite customer. No longer!"
-layout: default
 guid: http://popagandhi.com/?p=34
 permalink: /2008/09/the-country-codes-my-girlfriend-and-i-have-known/
 dsq_thread_id:

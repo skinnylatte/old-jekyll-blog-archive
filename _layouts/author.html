@@ -1,0 +1,40 @@
+---
+layout: default
+---
+{% assign author_posts = site.posts | where: "author_name", page.author_name %}
+
+<div class="row column">
+    <div class="single-content">
+        <div class="author-bio">
+            <a href="javascript:;" class="signals-ripple">
+                <img src='{{ "/img/" | append : page.author_avatar | prepend: site.baseurl }}.jpg'>
+            </a>
+
+            <div class="entry-content">
+                {{ content }}
+            </div><!-- .entry-content -->
+        </div><!-- .author-bio -->
+
+
+        <div class="posts-block animated fadeIn">
+            <h2 class="widget-title">
+                <span>POSTS</span>
+            </h2><!-- .widget-title -->
+
+            {% for post in author_posts %}
+                <article class="post">
+                    <div class="post-preview">
+                        <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+
+                        <div class="excerpt">
+                            {{ post.excerpt }}
+                        </div><!-- .excerpt -->
+
+                        <p class="meta">
+                            <span>{{ post.author_name }}</span>&nbsp;&nbsp;<strong>&middot;</strong>&nbsp;
+                            <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+                        </p><!-- .meta -->
+                    </div><!-- .post-preview -->
+                </article><!-- .post -->
+            {% endfor %}
+        </div><!-- .posts-block -->

@@ -2,8 +2,8 @@
 id: 351
 title: Chasing the Monsoon
 date: 2007-02-10T05:55:38+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=351
 permalink: /2007/02/chasing-the-monsoon/
 dsq_thread_id:

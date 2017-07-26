@@ -2,9 +2,9 @@
 id: 693
 title: From the Fringe
 date: 2013-02-18T13:32:33+00:00
-author: Adrianna Tan
+author_name: Adrianna Tan
+layout: post
 excerpt: "450 likes on Facebook. This may offend your political sentiments, but I'll stand by this."
-layout: default
 guid: http://popagandhi.com/?p=693
 permalink: /2013/02/from-the-fringe/
 dsq_thread_id:

@@ -2,8 +2,8 @@
 id: 394
 title: And All The Roads That Lead You There Were Winding
 date: 2009-05-12T06:36:53+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=394
 permalink: /2009/05/and-all-the-roads-that-lead-you-there-were-winding/
 dsq_thread_id:

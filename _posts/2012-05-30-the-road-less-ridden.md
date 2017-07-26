@@ -2,9 +2,9 @@
 id: 465
 title: The Road Less Ridden
 date: 2012-05-30T01:30:45+00:00
-author: Adrianna Tan
+author_name: Adrianna Tan
+layout: post
 excerpt: A girl. A bike. A panda.
-layout: default
 guid: http://popagandhi.com/?p=465
 permalink: /2012/05/the-road-less-ridden/
 dsq_thread_id:

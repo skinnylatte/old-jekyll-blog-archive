@@ -2,8 +2,8 @@
 id: 582
 title: 'Past	Forward: A Heritage Blogging and Social Media Workshop'
 date: 2012-07-09T12:53:36+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=582
 permalink: /2012/07/pastforward-a-heritage-blogging-and-social-media-workshop/
 dsq_thread_id:

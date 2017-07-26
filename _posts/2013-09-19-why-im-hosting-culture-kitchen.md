@@ -2,7 +2,7 @@
 id: 922
 title: 'Why I&#8217;m Hosting Culture Kitchen'
 date: 2013-09-19T12:28:52+00:00
-author: Adrianna Tan
+author_name: Adrianna Tan
 layout: post
 guid: http://popagandhi.com/?p=922
 permalink: /2013/09/why-im-hosting-culture-kitchen/

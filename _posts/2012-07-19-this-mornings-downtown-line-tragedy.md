@@ -2,8 +2,8 @@
 id: 600
 title: 'This Morning&#8217;s Downtown Line Tragedy'
 date: 2012-07-19T03:22:03+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=600
 permalink: /2012/07/this-mornings-downtown-line-tragedy/
 dsq_thread_id:

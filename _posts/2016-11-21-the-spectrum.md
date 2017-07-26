@@ -1,8 +1,8 @@
 ---
 title: On The Spectrum
 date: 2016-11-21T18:15:53+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 permalink: /2016/02/on-the-spectrum
 categories:
   - 'Life &amp; Love'

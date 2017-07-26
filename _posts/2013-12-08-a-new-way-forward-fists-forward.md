@@ -2,8 +2,8 @@
 id: 998
 title: A New Way Forward, Fists Forward?
 date: 2013-12-08T22:43:29+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=998
 permalink: /2013/12/a-new-way-forward-fists-forward/
 dsq_thread_id:

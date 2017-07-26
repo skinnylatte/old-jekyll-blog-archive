@@ -2,9 +2,9 @@
 id: 859
 title: Love, Singapore
 date: 2013-08-21T15:41:25+00:00
-author: Adrianna Tan
+author_name: Adrianna Tan
+layout: post
 excerpt: "I wrote a small piece for Elle Singapore (Sept 2013) about what it's like to be lesbian in Singapore."
-layout: default
 guid: http://popagandhi.com/?p=859
 permalink: /2013/08/love-singapore/
 dsq_thread_id:

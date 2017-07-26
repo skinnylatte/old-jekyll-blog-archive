@@ -2,8 +2,8 @@
 id: 1054
 title: Rebuilding
 date: 2014-02-07T16:40:51+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=1054
 permalink: /2014/02/rebuilding/
 dsq_thread_id:

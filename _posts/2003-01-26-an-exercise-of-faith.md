@@ -2,8 +2,8 @@
 id: 380
 title: An Exercise of Faith
 date: 2003-01-26T06:24:10+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=380
 permalink: /2003/01/an-exercise-of-faith/
 dsq_thread_id:

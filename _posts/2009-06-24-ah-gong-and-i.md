@@ -2,8 +2,8 @@
 id: 392
 title: Ah Gong and I
 date: 2009-06-24T06:35:32+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=392
 permalink: /2009/06/ah-gong-and-i/
 dsq_thread_id:

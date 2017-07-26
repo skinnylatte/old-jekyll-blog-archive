@@ -2,8 +2,8 @@
 id: 363
 title: Art and Lies, And
 date: 2006-01-08T06:11:10+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=363
 permalink: /2006/01/art-and-lies-and/
 dsq_thread_id:

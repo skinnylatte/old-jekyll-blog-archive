@@ -2,12 +2,12 @@
 id: 83
 title: We Have No Dungarees, Saar
 date: 2011-02-13T03:58:29+00:00
-author: Adrianna Tan
+author_name: Adrianna Tan
+layout: post
 excerpt: |
   There are slower ways of seeing India. On a buffalo. On a "two wheeler", a motorcycle, stacked to great heights with assorted luggage until you can't see what's in front of you. Or on foot, "by walk", like a <em>sadhu</em> with no clothes on.
 
   We travelled by autorickshaw.
-layout: default
 guid: http://popagandhi.com/?p=83
 permalink: /2011/02/we-have-no-dungarees-saar/
 dsq_thread_id:

@@ -2,8 +2,8 @@
 id: 349
 title: Other Mornings in Other Places
 date: 2006-01-16T05:52:38+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=349
 permalink: /2006/01/other-mornings-in-other-places/
 dsq_thread_id:

@@ -1,32 +1,80 @@
 ---
 layout: default
 ---
-<div class="post">
-  {% if page.image %}
-    <div class="featuredImage">
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
-      </div>
-  {% endif %}
-  <h1 class="postTitle">{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
-  
-  {{ content }}
 
-  <!-- POST NAVIGATION -->
-  <div class="postNav clearfix">
-    {% if page.previous.url %} 
-      <a class="prev{% if page.previous.image %} image{% endif %}" href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
-      {% if page.previous.image %} 
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
-      {% endif %}
-    </a>
-    {% endif %}  
-    {% if page.next.url %}  
-      <a class="next{% if page.next.image %} image{% endif %}" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
-      {% if page.next.image %} 
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.next.image }}" alt="">
-      {% endif %} 
-      </a>
-    {% endif %} 
-  </div>
-</div>
+{% if page.feature_image and page.feature_image != "" %}
+    <div class="entry-featured-image" style="background-image: url('{{ site.baseurl }}/img/{{ page.feature_image }}.jpg')"></div><!-- .entry-featured-image -->
+{% endif %}
+
+<div class="row">
+    <div class="large-8 column content-area main-left">
+        <div class="date-time">
+            {{ page.date | date: '%B %d, %Y' }}
+        </div><!-- .date-time -->
+
+        <div class="entry-header">
+            <h1 class="entry-title">{{ page.title }}</h1>
+        </div><!-- .entry-header -->
+
+        <div class="entry-content">
+            {{ content }}
+        </div><!-- .entry-content -->
+
+        <div class="post-footer">
+            <h5>Share this post</h5>
+
+            <div class="share-buttons">
+                <a href="https://twitter.com/intent/tweet?via=skinnylatte&text={{ page.title }} {{ page.url | absolute_url }}" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> &nbsp;Twitter</span></a>
+
+                <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> &nbsp;Facebook</span></a>
+
+                <a href="https://plus.google.com/share?url={{ page.url | absolute_url }}" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> &nbsp;Google+</span></a>
+
+                <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> &nbsp;LinkedIn</span></a>
+            </div><!-- .share-buttons -->
+        </div><!-- .post-footer -->
+    </div><!-- .large-8 -->
+
+    <div class="large-4 column widgets-area">
+        <div class="meta">
+            <a href="javascript:;" class="signals-ripple">
+                <img src='{{ "/img/" | prepend: site.baseurl }}adrianna.jpg' alt="{{ page.author_name }}">
+            </a><!-- .signals-ripple -->
+
+            <div class="sidebar-info">
+                <a href="{{ site.baseurl }}/author/adrianna">{{ page.author_name | capitalize }}</a> in <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ page.categories.first | capitalize }}</a>
+            </div><!-- .sidebar-info -->
+
+            <!-- <div class="sidebar-readtime">
+                <i class="fa fa-hand-spock-o"></i> {{ page.read_time }} minute read
+            </div><! .sidebar-readtime -->
+
+            <div class="sidebar-categories">
+                {% for category in page.categories %}
+                    <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ category | capitalize }}</a>
+                {% endfor %}
+            </div><!-- .sidebar-categories -->
+        </div><!-- .meta -->
+
+        <div class="sticky">
+            <h2 class="widget-title">
+                <span>You may also like</span>
+            </h2><!-- .widget-title -->
+
+            {% for post in site.related_posts %}
+                <ul class="signals-posts">
+                    {% if forloop.index <= 4 %}
+                        <li>
+                            <div class="signals-item">
+                                <div class="signals-item-text">
+                                    <span class="signals-item-meta">{{ post.categories.first | capitalize }}</span>
+                                    <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+                                </div>
+                            </div>
+                        </li>
+                    {% endif %}
+                </ul><!-- .signals-posts -->
+            {% endfor %}
+        </div><!-- .sticky -->
+    </div><!-- .large-4 -->
+</div><!-- .row -->

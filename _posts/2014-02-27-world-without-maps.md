@@ -2,8 +2,8 @@
 id: 1088
 title: World Without Maps
 date: 2014-02-27T23:15:58+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=1088
 permalink: /2014/02/world-without-maps/
 dsq_thread_id:

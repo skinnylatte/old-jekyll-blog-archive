@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="row column">
+	<div class="single-content">
+		<div class="entry-header">
+			<h1 class="entry-title">Archive</h1>
+		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			{% for category in site.categories %}
+				<div class="category-content">
+					<div class="entry-header">
+						<h3 class="entry-title">{{ category | first }}</h3>
+					</div><!-- .entry-header -->
+
+					{% for post in category.last %}
+						<div class="category-post">
+							<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+							<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
+						</div>
+					{% endfor %}
+				</div><!-- .category-content -->
+			{% endfor %}
+		</div><!-- .entry-content -->
+	</div><!-- .single-content -->
+</div><!-- .row -->

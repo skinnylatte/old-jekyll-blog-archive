@@ -2,9 +2,9 @@
 id: 683
 title: Five of Each
 date: 2012-11-26T02:27:47+00:00
-author: Adrianna Tan
+author_name: Adrianna Tan
+layout: post
 excerpt: A list of places and things
-layout: default
 guid: http://popagandhi.com/?p=683
 permalink: /2012/11/five-of-each/
 dsq_thread_id:

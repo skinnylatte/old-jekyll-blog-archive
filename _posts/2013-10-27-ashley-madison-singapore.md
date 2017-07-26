@@ -2,8 +2,8 @@
 id: 955
 title: Life Is Short. Have A Kit Kat.
 date: 2013-10-27T23:18:53+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=955
 permalink: /2013/10/ashley-madison-singapore/
 crisp_persona_post_view_count:

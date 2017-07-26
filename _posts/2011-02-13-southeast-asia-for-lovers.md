@@ -2,12 +2,12 @@
 id: 70
 title: Southeast Asia for Lovers
 date: 2011-02-13T01:27:49+00:00
-author: Adrianna Tan
+author_name: Adrianna Tan
+layout: post
 excerpt: |
   There I was, sipping my welcome drink in a posh Ubud resort, when I almost choked on it.
 
   I was accompanying friends as they sought the best wedding venue in Bali. Concerned about the monsoon, they asked the hotel manager why it hadn’t rained at all in the week we were there. Without batting an eyelid, she informed us there would be no rain for the entire month. “You see, Julia Roberts is in town.
-layout: default
 guid: http://popagandhi.com/?p=70
 permalink: /2011/02/southeast-asia-for-lovers/
 dsq_thread_id:

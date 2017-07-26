@@ -2,8 +2,8 @@
 id: 1218
 title: Is the Self-Hosted Blog Dead?
 date: 2016-03-24T05:45:46+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=1218
 permalink: /2016/03/is-the-self-hosted-blog-dead/
 categories:

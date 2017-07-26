@@ -1,0 +1,11 @@
+<div class="row read-another-section">
+    {% for post in site.related_posts %}
+        {% if forloop.index <= 6 %}
+        <div class="col-sm-6 col-md-2 no-gutter read-another-container">
+            <h3 class="read-another">
+            	<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h3><!-- .read-another -->
+        </div><!-- .read-another-container -->
+        {% endif %}
+    {% endfor %}
+</div><!-- .read-another-section -->

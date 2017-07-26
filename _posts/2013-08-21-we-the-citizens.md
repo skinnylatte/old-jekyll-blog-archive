@@ -2,9 +2,9 @@
 id: 860
 title: We, The Citizens
 date: 2013-08-21T15:34:01+00:00
-author: Adrianna Tan
+author_name: Adrianna Tan
+layout: post
 excerpt: 'WeTheCitizens.sg is the first part of a side project of mine, which aims to combine technology and activism. '
-layout: default
 guid: http://popagandhi.com/?p=860
 permalink: /2013/08/we-the-citizens/
 dsq_thread_id:

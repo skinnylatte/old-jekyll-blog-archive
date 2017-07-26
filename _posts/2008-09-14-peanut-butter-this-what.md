@@ -2,8 +2,8 @@
 id: 36
 title: Peanut Butter, This What?
 date: 2008-09-14T12:12:04+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=36
 permalink: /2008/09/peanut-butter-this-what/
 dsq_thread_id:

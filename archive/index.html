@@ -1,0 +1,32 @@
+---
+layout: default
+title: Archive
+---
+
+<div class="row column">
+	<div class="single-content">
+		<div class="entry-header">
+			<h1 class="entry-title">Archive</h1>
+		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			{% for post in site.posts %}
+				<div class="category-content">
+					{% assign currentDate = post.date | date: "%b %Y" %}
+						{% if currentDate != myDate %}
+							{% unless forloop.first %}</ul>{% endunless %}
+								<div class="entry-header">
+									<h3 class="entry-title">{{ currentDate }}</h3>
+								</div><!-- .entry-header -->
+							{% assign myDate = currentDate %}
+						{% endif %}
+
+					<div class="category-post">
+						<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+						<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
+					</div><!-- .category-post -->
+				</div><!-- .category-content -->
+			{% endfor %}
+		</div><!-- .entry-content -->
+	</div><!-- .single-content -->
+</div><!-- .row -->

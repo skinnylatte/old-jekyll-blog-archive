@@ -2,8 +2,8 @@
 id: 357
 title: Sudder Street
 date: 2007-01-19T06:05:20+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=357
 permalink: /2007/01/sudder-street/
 dsq_thread_id:

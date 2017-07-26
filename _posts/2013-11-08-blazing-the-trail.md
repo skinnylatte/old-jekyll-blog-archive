@@ -2,8 +2,8 @@
 id: 974
 title: Blazing the Trail
 date: 2013-11-08T12:39:31+00:00
-author: Adrianna Tan
-layout: default
+author_name: Adrianna Tan
+layout: post
 guid: http://popagandhi.com/?p=974
 permalink: /2013/11/blazing-the-trail/
 dsq_thread_id:
