@@ -3,10 +3,10 @@
   <channel>
     <title>Popagandhi</title>
     <description>Between long form cycling and tech</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Jul 2017 02:20:35 +0530</pubDate>
-    <lastBuildDate>Thu, 27 Jul 2017 02:20:35 +0530</lastBuildDate>
+    <link>http://popagandhi.com/</link>
+    <atom:link href="http://popagandhi.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 31 Jul 2017 14:15:25 +0530</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2017 14:15:25 +0530</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       
@@ -49,8 +49,8 @@ Two people, suspended between heartbreak and fury, met on Hong Kong Street after
 </description>
         
         <pubDate>Mon, 17 Jul 2017 23:45:53 +0530</pubDate>
-        <link>http://localhost:4000/2017/07/munduk</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/07/munduk</guid>
+        <link>http://popagandhi.com/2017/07/munduk</link>
+        <guid isPermaLink="true">http://popagandhi.com/2017/07/munduk</guid>
         
         
         <category>Life &amp;amp; Love</category>
@@ -71,8 +71,8 @@ Two people, suspended between heartbreak and fury, met on Hong Kong Street after
 </description>
         
         <pubDate>Tue, 11 Apr 2017 23:45:53 +0530</pubDate>
-        <link>http://localhost:4000/2017/04/do-what-you-dont-know</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/04/do-what-you-dont-know</guid>
+        <link>http://popagandhi.com/2017/04/do-what-you-dont-know</link>
+        <guid isPermaLink="true">http://popagandhi.com/2017/04/do-what-you-dont-know</guid>
         
         
         <category>Life &amp;amp; Love</category>
@@ -123,8 +123,8 @@ Two people, suspended between heartbreak and fury, met on Hong Kong Street after
 </description>
         
         <pubDate>Mon, 21 Nov 2016 23:45:53 +0530</pubDate>
-        <link>http://localhost:4000/2016/02/on-the-spectrum</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/02/on-the-spectrum</guid>
+        <link>http://popagandhi.com/2016/02/on-the-spectrum</link>
+        <guid isPermaLink="true">http://popagandhi.com/2016/02/on-the-spectrum</guid>
         
         
         <category>Life &amp;amp; Love</category>
@@ -153,8 +153,8 @@ Two people, suspended between heartbreak and fury, met on Hong Kong Street after
 </description>
         
         <pubDate>Tue, 18 Oct 2016 23:45:53 +0530</pubDate>
-        <link>http://localhost:4000/2016/10/wordpress-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/10/wordpress-to-jekyll/</guid>
+        <link>http://popagandhi.com/2016/10/wordpress-to-jekyll/</link>
+        <guid isPermaLink="true">http://popagandhi.com/2016/10/wordpress-to-jekyll/</guid>
         
         
         <category>Tech</category>
@@ -189,8 +189,8 @@ Two people, suspended between heartbreak and fury, met on Hong Kong Street after
 </description>
         
         <pubDate>Mon, 10 Oct 2016 23:45:53 +0530</pubDate>
-        <link>http://localhost:4000/2016/10/what-31-feels-like/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/10/what-31-feels-like/</guid>
+        <link>http://popagandhi.com/2016/10/what-31-feels-like/</link>
+        <guid isPermaLink="true">http://popagandhi.com/2016/10/what-31-feels-like/</guid>
         
         
         <category>Life &amp;amp; Love</category>
@@ -208,8 +208,8 @@ Two people, suspended between heartbreak and fury, met on Hong Kong Street after
 </description>
         
         <pubDate>Sat, 01 Oct 2016 23:47:40 +0530</pubDate>
-        <link>http://localhost:4000/2016/10/my-article-on-indonesia-in-brink-last-month/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/10/my-article-on-indonesia-in-brink-last-month/</guid>
+        <link>http://popagandhi.com/2016/10/my-article-on-indonesia-in-brink-last-month/</link>
+        <guid isPermaLink="true">http://popagandhi.com/2016/10/my-article-on-indonesia-in-brink-last-month/</guid>
         
         
         <category>Indonesia</category>
@@ -270,8 +270,8 @@ Two people, suspended between heartbreak and fury, met on Hong Kong Street after
 </description>
         
         <pubDate>Tue, 14 Jun 2016 07:06:41 +0530</pubDate>
-        <link>http://localhost:4000/2016/06/panic-at-the-disco/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/06/panic-at-the-disco/</guid>
+        <link>http://popagandhi.com/2016/06/panic-at-the-disco/</link>
+        <guid isPermaLink="true">http://popagandhi.com/2016/06/panic-at-the-disco/</guid>
         
         
         <category>Events</category>
@@ -332,8 +332,8 @@ Two people, suspended between heartbreak and fury, met on Hong Kong Street after
 </description>
         
         <pubDate>Wed, 01 Jun 2016 02:21:24 +0530</pubDate>
-        <link>http://localhost:4000/2016/05/kolkata-kalling/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/05/kolkata-kalling/</guid>
+        <link>http://popagandhi.com/2016/05/kolkata-kalling/</link>
+        <guid isPermaLink="true">http://popagandhi.com/2016/05/kolkata-kalling/</guid>
         
         
         <category>Food</category>
@@ -378,8 +378,8 @@ Two people, suspended between heartbreak and fury, met on Hong Kong Street after
 </description>
         
         <pubDate>Thu, 28 Apr 2016 02:54:58 +0530</pubDate>
-        <link>http://localhost:4000/2016/04/in-small-rooms-with-old-women/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/04/in-small-rooms-with-old-women/</guid>
+        <link>http://popagandhi.com/2016/04/in-small-rooms-with-old-women/</link>
+        <guid isPermaLink="true">http://popagandhi.com/2016/04/in-small-rooms-with-old-women/</guid>
         
         
         <category>Life &amp;amp; Love</category>
@@ -414,8 +414,8 @@ Two people, suspended between heartbreak and fury, met on Hong Kong Street after
 </description>
         
         <pubDate>Thu, 21 Apr 2016 23:52:54 +0530</pubDate>
-        <link>http://localhost:4000/2016/04/when-i-was-young/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/04/when-i-was-young/</guid>
+        <link>http://popagandhi.com/2016/04/when-i-was-young/</link>
+        <guid isPermaLink="true">http://popagandhi.com/2016/04/when-i-was-young/</guid>
         
         
         <category>Life &amp;amp; Love</category>

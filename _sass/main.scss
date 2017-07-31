@@ -659,6 +659,7 @@ p.justify {
 .category-page-posts .post .excerpt {
 	font-size: 0.938rem;
 	line-height: 1.533;
+	margin-bottom: 24px;
 }
 .posts-block .post .meta,
 .home-page-posts .post .meta,
@@ -670,7 +671,9 @@ p.justify {
 	color: #606060;
 	margin: 0;
 }
-.home-page-posts .post .meta a {
+.posts-block .post .meta a,
+.home-page-posts .post .meta a,
+.category-page-posts .post .meta a {
 	font-weight: 600;
 }
 
@@ -968,6 +971,9 @@ p.justify {
 }
 .widgets-area .meta .sidebar-info {
 	margin-top: 14px;
+}
+.widgets-area .meta .sidebar-info a {
+	font-weight: 600;
 }
 .widgets-area .meta .sidebar-text {
 	margin-top: 14px;
