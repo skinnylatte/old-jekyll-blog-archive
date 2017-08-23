@@ -27,7 +27,7 @@ social_links:
   Linkedin: ['LinkedIn', 'https://www.linkedin.com/in/adriannatan/', 'fa-linkedin']
 sidebar:
   author_name: 'Adrianna Tan'
-  author_about: [Hi, I'm Adrianna Tan. I cofounded Wobe, a fintech startup in Indonesia, and Gyanada Foundation, a non-profit that works to impact girls' lives through education and code.]
+  author_about: '['Hi, I'm Adrianna Tan. I cofounded Wobe, a fintech startup in Indonesia, and Gyanada Foundation, a non-profit that works to impact girls' lives through education and code.'
   author_avatar: 'adrianna'
   author_location: 'Indonesia / Singapore / India'
 jekyll-archives:
