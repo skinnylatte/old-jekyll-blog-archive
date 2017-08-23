@@ -24,11 +24,12 @@ social_links:
   Facebook: ['Facebook', 'https://www.facebook.com/adrianna.tan', 'fa-facebook']
   Google: ['Instagram', 'https://instagram.com/skinnylatte', 'fa-instagram']
   Instagram: ['Github', 'https://github.com/skinnylatte', 'fa-github-alt']
+  Linkedin: ['LinkedIn', 'https://www.linkedin.com/in/adriannatan/', 'fa-linkedin']
 sidebar:
   author_name: 'Adrianna Tan'
-  author_about: ['I’m a startup founder from Singapore who has spent considerable amounts of time working and living across India, Indonesia, Malaysia, Myanmar and Bangladesh, with short stints in America, the UK and Hungary.']
+  author_about: ['Hi, I'm Adrianna Tan. I cofounded Wobe, a fintech startup in Indonesia, and Gyanada Foundation, a non-profit that works to impact girls' lives through education and code.']
   author_avatar: 'adrianna'
-  author_location: 'Indonesia'
+  author_location: 'Indonesia / Singapore / India'
 jekyll-archives:
   enabled:
     - year
