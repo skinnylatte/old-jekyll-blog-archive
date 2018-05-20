@@ -13,7 +13,6 @@ nav_list:
   Home : ['Home', '/']
   About : ['About', '/about']
   Contact : ['Contact', '/contact']
-  Author : ['Author', '/author/adrianna']
 single_footer: 'Copyright &copy; 2017 69signals'
 footer_links:
   About: ['About', '/about']
