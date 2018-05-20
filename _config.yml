@@ -11,7 +11,6 @@ permalink: :title
 nav_list:
   Home : ['Home', '/']
   About : ['About', '/about']
-single_footer: 'Copyright &copy; 2017 69signals'
 footer_links:
   About: ['About', '/about']
   Writer: ['Contact', '/contact']
@@ -42,4 +41,3 @@ gems:
   - jekyll-paginate
 ##  - jekyll-archives
 
-remote_theme: skinnylatte/minimal-mistakes
