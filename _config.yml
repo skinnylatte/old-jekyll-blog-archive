@@ -44,3 +44,4 @@ gems:
   - jekyll-paginate
 ##  - jekyll-archives
 
+remote_theme: skinnylatte/minimal-mistakes
