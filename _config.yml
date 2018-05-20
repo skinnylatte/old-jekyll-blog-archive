@@ -3,8 +3,7 @@ title: 'Popagandhi'
 email: 'skinnylatte@gmail.com'
 description: 'Between long form cycling and tech'
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://popagandhi.com'
-enable_retina: false
+url: 'skinnylatte.github.io'
 markdown: kramdown
 highlighter: rouge
 paginate: 6
