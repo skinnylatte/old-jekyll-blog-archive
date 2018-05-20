@@ -12,7 +12,6 @@ permalink: :title
 nav_list:
   Home : ['Home', '/']
   About : ['About', '/about']
-  Contact : ['Contact', '/contact']
 single_footer: 'Copyright &copy; 2017 69signals'
 footer_links:
   About: ['About', '/about']
